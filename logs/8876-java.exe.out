@@ -1,0 +1,59 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 1706milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1706"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 50849"}
+{"logLevel":"info","message":"Listening on port:50849"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'Tests.SaleTest.validateThePhoneNumber' and 'Tests.SaleTest.validateThePhoneNumber'"}
+{"logLevel":"debug","message":"Found Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.SaleTest.rentFilterSearch' and 'Tests.SaleTest.rentFilterSearch'"}
+{"logLevel":"debug","message":"Found Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.SaleTest.chekIfFilterArea' and 'Tests.SaleTest.chekIfFilterArea'"}
+{"logLevel":"debug","message":"Found Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.SaleTest.firstHouseForRentDetailPage' and 'Tests.SaleTest.firstHouseForRentDetailPage'"}
+{"logLevel":"debug","message":"Found WEB: On the Detail page there is a \u201cShow Phone Number\u201d link on the right. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.SaleTest.saleFilterSearch' and 'Tests.SaleTest.saleFilterSearch'"}
+{"logLevel":"debug","message":"Found Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.HomeTest.clickForRent' and 'Tests.HomeTest.clickForRent'"}
+{"logLevel":"debug","message":"Found Click on \u201cKiralık\u201d in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.HomeTest.clickForSale' and 'Tests.HomeTest.clickForSale'"}
+{"logLevel":"debug","message":"Found Click on \u201cSatılık\u201d in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.SaleTest.clickSearch' and 'Tests.SaleTest.clickSearch'"}
+{"logLevel":"debug","message":"Found Click Search in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.HomeTest.userVisitSite' and 'Tests.HomeTest.userVisitSite'"}
+{"logLevel":"debug","message":"Found Go to Main Page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.SaleTest.selectedFirstHouseForRent' and 'Tests.SaleTest.selectedFirstHouseForRent'"}
+{"logLevel":"debug","message":"Found Click on the 3rd listing on the results and go to listing detail page. in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tCheck for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; : public void chekIfFilterArea()"}
+{"logLevel":"debug","message":"\tValidate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) : public void validateThePhoneNumber()"}
+{"logLevel":"debug","message":"\tMake a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; : public void saleFilterSearch()"}
+{"logLevel":"debug","message":"\tMake a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; : public void rentFilterSearch()"}
+{"logLevel":"debug","message":"\tClick Search : public void clickSearch()"}
+{"logLevel":"debug","message":"\tGo to Main Page : public void userVisitSite()"}
+{"logLevel":"debug","message":"\tClick on the 3rd listing on the results and go to listing detail page. : public void selectedFirstHouseForRent()"}
+{"logLevel":"debug","message":"\tClick on \u201cSatılık\u201d : public void clickForSale()"}
+{"logLevel":"debug","message":"\tWEB: On the Detail page there is a \u201cShow Phone Number\u201d link on the right. : public void firstHouseForRentDetailPage()"}
+{"logLevel":"debug","message":"\tClick on \u201cKiralık\u201d : public void clickForRent()"}
+Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 8700
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 06, 2021 11:28:23 ÖS org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Go to Main Page' using 'class Tests.HomeTest.userVisitSite"}
+{"logLevel":"debug","message":"Executing 'Click on \u201cKiralık\u201d' using 'class Tests.HomeTest.clickForRent"}
+{"logLevel":"debug","message":"Executing 'Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ;' using 'class Tests.SaleTest.rentFilterSearch"}
+{"logLevel":"debug","message":"Executing 'Click on the 3rd listing on the results and go to listing detail page.' using 'class Tests.SaleTest.selectedFirstHouseForRent"}
+{"logLevel":"debug","message":"Executing 'WEB: On the Detail page there is a \u201cShow Phone Number\u201d link on the right.' using 'class Tests.SaleTest.firstHouseForRentDetailPage"}
+{"logLevel":"debug","message":"Executing 'Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx)' using 'class Tests.SaleTest.validateThePhoneNumber"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

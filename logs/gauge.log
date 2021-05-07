@@ -1,0 +1,805 @@
+06-05-2021 23:17:38.099 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\.gauge\screenshots
+06-05-2021 23:17:38.106 [Gauge] [DEBUG] Plugin java is already installed.
+06-05-2021 23:17:38.108 [Gauge] [DEBUG] Plugin html-report is already installed.
+06-05-2021 23:17:38.110 [Gauge] [DEBUG] Parsing started.
+06-05-2021 23:17:38.110 [Gauge] [DEBUG] Started concepts parsing.
+06-05-2021 23:17:38.125 [Gauge] [DEBUG] 0 concepts parsing completed.
+06-05-2021 23:17:38.126 [Gauge] [DEBUG] Started specifications parsing.
+06-05-2021 23:17:38.127 [Gauge] [DEBUG] 1 specifications parsing completed.
+06-05-2021 23:17:38.128 [Gauge] [DEBUG] Parsing completed.
+06-05-2021 23:17:38.963 [Gauge] [DEBUG] Checking updates...
+06-05-2021 23:17:38.967 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:17:39.289 [java] [DEBUG] ***** Printing Properties/Env Values *****
+06-05-2021 23:17:39.290 [java] [DEBUG] PATH: "C:\Program Files\Java\jdk-15.0.1\bin;C:\Program Files\Common Files\Oracle\Java\javapath";C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2018b\runtime\win64;C:\Program Files\MATLAB\R2018b\bin;C:\Program Files\MATLAB\R2014a\runtime\win64;C:\Program Files\MATLAB\R2014a\bin;C:\Program Files\MATLAB\R2014a\polyspace\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Brackets\command;C:\Program Files\Java\jdk-15.0.1\lib;C:\Program Files\Java\jdk-15.0.1\bin;C:\Users\x\AppData\Local\Android\Sdk\tools;C:\Users\x\AppData\Local\Android\Sdk\build-tools;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\apache-maven-3.6.3;C:\Program Files\Android\Android Studio\bin;C:\Program Files\Git\cmd;C:\Program Files\Gauge\bin;C:\Users\x\AppData\Local\Microsoft\WindowsApps;C:\apache-maven-3.6.3\bin;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\Users\x\AppData\Local\Android\Sdk;;C:\Users\x\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+06-05-2021 23:17:39.290 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-15.0.1
+06-05-2021 23:17:39.290 [java] [DEBUG] gauge_project_root: C:\Users\x\Desktop\HurriyetemlakTestOtomasyon
+06-05-2021 23:17:39.290 [java] [DEBUG] gauge_parallel_streams_count: 4
+06-05-2021 23:17:39.290 [java] [DEBUG] gauge_reports_dir: reports
+06-05-2021 23:17:39.290 [java] [DEBUG] overwrite_reports: true
+06-05-2021 23:17:39.290 [java] [DEBUG] logs_directory: logs
+06-05-2021 23:17:39.290 [java] [DEBUG] enable_multithreading: false
+06-05-2021 23:17:39.290 [java] [DEBUG] gauge_specs_dir: specs
+06-05-2021 23:17:39.290 [java] [DEBUG] csv_delimiter: ,
+06-05-2021 23:17:39.290 [java] [DEBUG] gauge_java_home: 
+06-05-2021 23:17:39.290 [java] [DEBUG] gauge_custom_build_path: 
+06-05-2021 23:17:39.290 [java] [DEBUG] gauge_additional_libs: libs/*
+06-05-2021 23:17:39.290 [java] [DEBUG] gauge_jvm_args: 
+06-05-2021 23:17:39.290 [java] [DEBUG] gauge_custom_compile_dir: 
+06-05-2021 23:17:39.290 [java] [DEBUG] gauge_clear_state_level: scenario
+06-05-2021 23:17:39.290 [java] [DEBUG] ***** END *****
+06-05-2021 23:17:42.042 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:17:42.244 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:18:05.312 [java] [ERROR] Installed version of gauge-java (0.7.13) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+06-05-2021 23:18:05.312 [java] [DEBUG] classpath set to C:\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Java\jdk1.8.0_231\jre\lib\deploy.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_231\jre\lib\javaws.jar;C:\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Java\jdk1.8.0_231\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Java\jdk1.8.0_231\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_231\jre\lib\plugin.jar;C:\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\target\test-classes;C:\Users\x\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\x\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\x\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\x\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\x\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\x\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\x\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\x\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\x\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\x\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\x\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\x\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\x\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\x\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\x\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\x\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\x\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\x\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\x\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\x\.m2\repository\org\assertj\assertj-core\3.10.0\assertj-core-3.10.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-java\3.12.0\selenium-java-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-api\3.12.0\selenium-api-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.12.0\selenium-chrome-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.12.0\selenium-edge-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.12.0\selenium-firefox-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.12.0\selenium-ie-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.12.0\selenium-opera-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.12.0\selenium-remote-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.12.0\selenium-safari-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-support\3.12.0\selenium-support-3.12.0.jar;C:\Users\x\.m2\repository\net\bytebuddy\byte-buddy\1.8.3\byte-buddy-1.8.3.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\x\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\x\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\x\.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\x\.m2\repository\com\squareup\okhttp3\okhttp\3.9.1\okhttp-3.9.1.jar;C:\Users\x\.m2\repository\com\squareup\okio\okio\1.13.0\okio-1.13.0.jar;C:\Users\x\.m2\repository\io\github\bonigarcia\webdrivermanager\3.7.1\webdrivermanager-3.7.1.jar;C:\Users\x\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\x\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\x\.m2\repository\org\jsoup\jsoup\1.11.3\jsoup-1.11.3.jar;C:\Users\x\.m2\repository\org\reflections\reflections\0.9.10\reflections-0.9.10.jar;C:\Users\x\.m2\repository\org\javassist\javassist\3.19.0-GA\javassist-3.19.0-GA.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\x\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\x\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+06-05-2021 23:18:06.552 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk-15.0.1\bin\java.exe
+06-05-2021 23:18:06.552 [java] [DEBUG] running - C:\Program Files\Java\jdk-15.0.1\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+06-05-2021 23:18:06.552 [java] [DEBUG] stdout/stderr is logged to logs\6992-java.exe.out
+06-05-2021 23:18:07.163 [java] [DEBUG] multithreading is set to false
+06-05-2021 23:18:09.166 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+06-05-2021 23:18:09.187 [Gauge] [CRITICAL] Failed to start gauge API: Timed out connecting to java
+06-05-2021 23:18:36.872 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\.gauge\screenshots
+06-05-2021 23:18:36.876 [Gauge] [DEBUG] Plugin java is already installed.
+06-05-2021 23:18:36.878 [Gauge] [DEBUG] Plugin html-report is already installed.
+06-05-2021 23:18:36.879 [Gauge] [DEBUG] Parsing started.
+06-05-2021 23:18:36.879 [Gauge] [DEBUG] Started concepts parsing.
+06-05-2021 23:18:36.895 [Gauge] [DEBUG] 0 concepts parsing completed.
+06-05-2021 23:18:36.896 [Gauge] [DEBUG] Started specifications parsing.
+06-05-2021 23:18:36.897 [Gauge] [DEBUG] 1 specifications parsing completed.
+06-05-2021 23:18:36.897 [Gauge] [DEBUG] Parsing completed.
+06-05-2021 23:18:37.000 [java] [DEBUG] ***** Printing Properties/Env Values *****
+06-05-2021 23:18:37.000 [java] [DEBUG] PATH: "C:\Program Files\Java\jdk-15.0.1\bin;C:\Program Files\Common Files\Oracle\Java\javapath";C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2018b\runtime\win64;C:\Program Files\MATLAB\R2018b\bin;C:\Program Files\MATLAB\R2014a\runtime\win64;C:\Program Files\MATLAB\R2014a\bin;C:\Program Files\MATLAB\R2014a\polyspace\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Brackets\command;C:\Program Files\Java\jdk-15.0.1\lib;C:\Program Files\Java\jdk-15.0.1\bin;C:\Users\x\AppData\Local\Android\Sdk\tools;C:\Users\x\AppData\Local\Android\Sdk\build-tools;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\apache-maven-3.6.3;C:\Program Files\Android\Android Studio\bin;C:\Program Files\Git\cmd;C:\Program Files\Gauge\bin;C:\Users\x\AppData\Local\Microsoft\WindowsApps;C:\apache-maven-3.6.3\bin;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\Users\x\AppData\Local\Android\Sdk;;C:\Users\x\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+06-05-2021 23:18:37.000 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-15.0.1
+06-05-2021 23:18:37.001 [java] [DEBUG] gauge_project_root: C:\Users\x\Desktop\HurriyetemlakTestOtomasyon
+06-05-2021 23:18:37.001 [java] [DEBUG] gauge_parallel_streams_count: 4
+06-05-2021 23:18:37.001 [java] [DEBUG] gauge_reports_dir: reports
+06-05-2021 23:18:37.001 [java] [DEBUG] overwrite_reports: true
+06-05-2021 23:18:37.001 [java] [DEBUG] logs_directory: logs
+06-05-2021 23:18:37.001 [java] [DEBUG] enable_multithreading: false
+06-05-2021 23:18:37.001 [java] [DEBUG] gauge_specs_dir: specs
+06-05-2021 23:18:37.001 [java] [DEBUG] csv_delimiter: ,
+06-05-2021 23:18:37.001 [java] [DEBUG] gauge_java_home: 
+06-05-2021 23:18:37.001 [java] [DEBUG] gauge_custom_build_path: 
+06-05-2021 23:18:37.001 [java] [DEBUG] gauge_additional_libs: libs/*
+06-05-2021 23:18:37.001 [java] [DEBUG] gauge_jvm_args: 
+06-05-2021 23:18:37.001 [java] [DEBUG] gauge_custom_compile_dir: 
+06-05-2021 23:18:37.001 [java] [DEBUG] gauge_clear_state_level: scenario
+06-05-2021 23:18:37.001 [java] [DEBUG] ***** END *****
+06-05-2021 23:18:37.394 [Gauge] [DEBUG] Checking updates...
+06-05-2021 23:18:37.405 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:18:38.000 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:18:38.282 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:18:45.219 [java] [ERROR] Installed version of gauge-java (0.7.13) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+06-05-2021 23:18:45.219 [java] [DEBUG] classpath set to C:\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Java\jdk1.8.0_231\jre\lib\deploy.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_231\jre\lib\javaws.jar;C:\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Java\jdk1.8.0_231\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Java\jdk1.8.0_231\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_231\jre\lib\plugin.jar;C:\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\target\test-classes;C:\Users\x\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\x\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\x\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\x\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\x\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\x\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\x\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\x\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\x\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\x\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\x\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\x\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\x\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\x\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\x\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\x\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\x\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\x\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\x\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\x\.m2\repository\org\assertj\assertj-core\3.10.0\assertj-core-3.10.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-java\3.12.0\selenium-java-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-api\3.12.0\selenium-api-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.12.0\selenium-chrome-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.12.0\selenium-edge-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.12.0\selenium-firefox-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.12.0\selenium-ie-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.12.0\selenium-opera-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.12.0\selenium-remote-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.12.0\selenium-safari-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-support\3.12.0\selenium-support-3.12.0.jar;C:\Users\x\.m2\repository\net\bytebuddy\byte-buddy\1.8.3\byte-buddy-1.8.3.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\x\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\x\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\x\.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\x\.m2\repository\com\squareup\okhttp3\okhttp\3.9.1\okhttp-3.9.1.jar;C:\Users\x\.m2\repository\com\squareup\okio\okio\1.13.0\okio-1.13.0.jar;C:\Users\x\.m2\repository\io\github\bonigarcia\webdrivermanager\3.7.1\webdrivermanager-3.7.1.jar;C:\Users\x\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\x\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\x\.m2\repository\org\jsoup\jsoup\1.11.3\jsoup-1.11.3.jar;C:\Users\x\.m2\repository\org\reflections\reflections\0.9.10\reflections-0.9.10.jar;C:\Users\x\.m2\repository\org\javassist\javassist\3.19.0-GA\javassist-3.19.0-GA.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\x\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\x\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+06-05-2021 23:18:45.318 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk-15.0.1\bin\java.exe
+06-05-2021 23:18:45.319 [java] [DEBUG] running - C:\Program Files\Java\jdk-15.0.1\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+06-05-2021 23:18:45.319 [java] [DEBUG] stdout/stderr is logged to logs\12964-java.exe.out
+06-05-2021 23:18:45.994 [java] [DEBUG] multithreading is set to false
+06-05-2021 23:18:46.825 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+06-05-2021 23:18:47.580 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+06-05-2021 23:18:47.580 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+06-05-2021 23:18:47.581 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+06-05-2021 23:18:52.430 [java] [DEBUG] gauge-java took 6434milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+06-05-2021 23:18:52.430 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 6434
+06-05-2021 23:18:52.430 [java] [DEBUG] starting gRPC server...
+06-05-2021 23:18:53.303 [java] [DEBUG] started gRPC server on port 50410
+06-05-2021 23:18:53.303 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50410
+06-05-2021 23:18:55.603 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50410
+06-05-2021 23:18:55.603 [Gauge] [DEBUG] Validation started.
+06-05-2021 23:19:00.244 [java] [DEBUG] Scanning packages for steps
+06-05-2021 23:19:00.260 [java] [DEBUG] Comparing 'Tests.SaleTest.validateThePhoneNumber' and 'Tests.SaleTest.validateThePhoneNumber'
+06-05-2021 23:19:00.260 [java] [DEBUG] Found Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) in current project scope.
+06-05-2021 23:19:00.261 [java] [DEBUG] Comparing 'Tests.SaleTest.rentFilterSearch' and 'Tests.SaleTest.rentFilterSearch'
+06-05-2021 23:19:00.261 [java] [DEBUG] Found Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; in current project scope.
+06-05-2021 23:19:00.261 [java] [DEBUG] Comparing 'Tests.SaleTest.chekIfFilterArea' and 'Tests.SaleTest.chekIfFilterArea'
+06-05-2021 23:19:00.261 [java] [DEBUG] Found Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; in current project scope.
+06-05-2021 23:19:00.262 [java] [DEBUG] Comparing 'Tests.SaleTest.firstHouseForRentDetailPage' and 'Tests.SaleTest.firstHouseForRentDetailPage'
+06-05-2021 23:19:00.262 [java] [DEBUG] Found WEB: On the Detail page there is a “Show Phone Number” link on the right. in current project scope.
+06-05-2021 23:19:00.262 [java] [DEBUG] Comparing 'Tests.SaleTest.saleFilterSearch' and 'Tests.SaleTest.saleFilterSearch'
+06-05-2021 23:19:00.262 [java] [DEBUG] Found Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; in current project scope.
+06-05-2021 23:19:00.263 [java] [DEBUG] Comparing 'Tests.HomeTest.clickForRent' and 'Tests.HomeTest.clickForRent'
+06-05-2021 23:19:00.263 [java] [DEBUG] Found Click on “Kiralık” in current project scope.
+06-05-2021 23:19:00.263 [java] [DEBUG] Comparing 'Tests.HomeTest.clickForSale' and 'Tests.HomeTest.clickForSale'
+06-05-2021 23:19:00.263 [java] [DEBUG] Found Click on “Satılık” in current project scope.
+06-05-2021 23:19:00.263 [java] [DEBUG] Comparing 'Tests.SaleTest.clickSearch' and 'Tests.SaleTest.clickSearch'
+06-05-2021 23:19:00.264 [java] [DEBUG] Found Click Search in current project scope.
+06-05-2021 23:19:00.264 [java] [DEBUG] Comparing 'Tests.HomeTest.userVisitSite' and 'Tests.HomeTest.userVisitSite'
+06-05-2021 23:19:00.264 [java] [DEBUG] Found Go to Main Page in current project scope.
+06-05-2021 23:19:00.264 [java] [DEBUG] Comparing 'Tests.SaleTest.selectedFirstHouseForRent' and 'Tests.SaleTest.selectedFirstHouseForRent'
+06-05-2021 23:19:00.264 [java] [DEBUG] Found Click on the 3rd listing on the results and go to listing detail page. in current project scope.
+06-05-2021 23:19:00.264 [java] [DEBUG] Scanning packages for hooks
+06-05-2021 23:19:00.274 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+06-05-2021 23:19:00.274 [java] [DEBUG] 	Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; : public void chekIfFilterArea()
+06-05-2021 23:19:00.274 [java] [DEBUG] 	Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) : public void validateThePhoneNumber()
+06-05-2021 23:19:00.274 [java] [DEBUG] 	Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; : public void saleFilterSearch()
+06-05-2021 23:19:00.319 [java] [DEBUG] 	Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; : public void rentFilterSearch()
+06-05-2021 23:19:00.319 [java] [DEBUG] 	Click Search : public void clickSearch()
+06-05-2021 23:19:00.319 [java] [DEBUG] 	Go to Main Page : public void userVisitSite()
+06-05-2021 23:19:00.319 [java] [DEBUG] 	Click on the 3rd listing on the results and go to listing detail page. : public void selectedFirstHouseForRent()
+06-05-2021 23:19:00.319 [java] [DEBUG] 	Click on “Satılık” : public void clickForSale()
+06-05-2021 23:19:00.319 [java] [DEBUG] 	WEB: On the Detail page there is a “Show Phone Number” link on the right. : public void firstHouseForRentDetailPage()
+06-05-2021 23:19:00.319 [java] [DEBUG] 	Click on “Kiralık” : public void clickForRent()
+06-05-2021 23:19:03.757 [Gauge] [DEBUG] Validation completed.
+06-05-2021 23:19:03.758 [Gauge] [DEBUG] Run started
+06-05-2021 23:19:03.761 [Gauge] [DEBUG] Starting Html Report plugin
+06-05-2021 23:19:04.653 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50416
+06-05-2021 23:19:04.654 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50416
+06-05-2021 23:19:04.654 [Gauge] [DEBUG] Initialising suite data store.
+06-05-2021 23:19:54.416 [html-report] [DEBUG] Transformed SuiteResult to report structure
+06-05-2021 23:19:56.555 [html-report] [INFO] Successfully generated html-report to => C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\reports\html-report\index.html
+06-05-2021 23:19:56.555 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\x\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+06-05-2021 23:19:56.555 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+06-05-2021 23:19:56.575 [java] [DEBUG] Killing Java runner...
+06-05-2021 23:19:56.576 [java] [DEBUG] Stopping execution pool...
+06-05-2021 23:19:56.576 [java] [DEBUG] Shutting down grpc server...
+06-05-2021 23:19:56.581 [java] [DEBUG] Runner killed gracefully.
+06-05-2021 23:19:57.181 [Gauge] [DEBUG] Runner with PID:12964 has exited
+06-05-2021 23:19:57.181 [Gauge] [INFO] Specifications:	0 executed	0 passed	0 failed	0 skipped
+06-05-2021 23:19:57.181 [Gauge] [INFO] Scenarios:	0 executed	0 passed	0 failed	0 skipped
+06-05-2021 23:19:57.181 [Gauge] [INFO] 
+Total time taken: 50.641s
+06-05-2021 23:19:57.182 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+06-05-2021 23:20:36.681 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\.gauge\screenshots
+06-05-2021 23:20:36.685 [Gauge] [DEBUG] Plugin java is already installed.
+06-05-2021 23:20:36.686 [Gauge] [DEBUG] Plugin html-report is already installed.
+06-05-2021 23:20:36.687 [Gauge] [DEBUG] Parsing started.
+06-05-2021 23:20:36.688 [Gauge] [DEBUG] Started concepts parsing.
+06-05-2021 23:20:36.702 [Gauge] [DEBUG] 0 concepts parsing completed.
+06-05-2021 23:20:36.702 [Gauge] [DEBUG] Started specifications parsing.
+06-05-2021 23:20:36.703 [Gauge] [DEBUG] 1 specifications parsing completed.
+06-05-2021 23:20:36.703 [Gauge] [DEBUG] Parsing completed.
+06-05-2021 23:20:36.831 [java] [DEBUG] ***** Printing Properties/Env Values *****
+06-05-2021 23:20:36.831 [java] [DEBUG] PATH: "C:\Program Files\Java\jdk-15.0.1\bin;C:\Program Files\Common Files\Oracle\Java\javapath";C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2018b\runtime\win64;C:\Program Files\MATLAB\R2018b\bin;C:\Program Files\MATLAB\R2014a\runtime\win64;C:\Program Files\MATLAB\R2014a\bin;C:\Program Files\MATLAB\R2014a\polyspace\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Brackets\command;C:\Program Files\Java\jdk-15.0.1\lib;C:\Program Files\Java\jdk-15.0.1\bin;C:\Users\x\AppData\Local\Android\Sdk\tools;C:\Users\x\AppData\Local\Android\Sdk\build-tools;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\apache-maven-3.6.3;C:\Program Files\Android\Android Studio\bin;C:\Program Files\Git\cmd;C:\Program Files\Gauge\bin;C:\Users\x\AppData\Local\Microsoft\WindowsApps;C:\apache-maven-3.6.3\bin;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\Users\x\AppData\Local\Android\Sdk;;C:\Users\x\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+06-05-2021 23:20:36.831 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-15.0.1
+06-05-2021 23:20:36.831 [java] [DEBUG] gauge_project_root: C:\Users\x\Desktop\HurriyetemlakTestOtomasyon
+06-05-2021 23:20:36.831 [java] [DEBUG] gauge_parallel_streams_count: 4
+06-05-2021 23:20:36.831 [java] [DEBUG] gauge_reports_dir: reports
+06-05-2021 23:20:36.831 [java] [DEBUG] overwrite_reports: true
+06-05-2021 23:20:36.831 [java] [DEBUG] logs_directory: logs
+06-05-2021 23:20:36.831 [java] [DEBUG] enable_multithreading: false
+06-05-2021 23:20:36.831 [java] [DEBUG] gauge_specs_dir: specs
+06-05-2021 23:20:36.831 [java] [DEBUG] csv_delimiter: ,
+06-05-2021 23:20:36.831 [java] [DEBUG] gauge_java_home: 
+06-05-2021 23:20:36.831 [java] [DEBUG] gauge_custom_build_path: 
+06-05-2021 23:20:36.831 [java] [DEBUG] gauge_additional_libs: libs/*
+06-05-2021 23:20:36.831 [java] [DEBUG] gauge_jvm_args: 
+06-05-2021 23:20:36.832 [java] [DEBUG] gauge_custom_compile_dir: 
+06-05-2021 23:20:36.832 [java] [DEBUG] gauge_clear_state_level: scenario
+06-05-2021 23:20:36.832 [java] [DEBUG] ***** END *****
+06-05-2021 23:20:37.276 [Gauge] [DEBUG] Checking updates...
+06-05-2021 23:20:37.290 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:20:38.417 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:20:38.680 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:20:46.536 [java] [ERROR] Installed version of gauge-java (0.7.13) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+06-05-2021 23:20:46.536 [java] [DEBUG] classpath set to C:\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Java\jdk1.8.0_231\jre\lib\deploy.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_231\jre\lib\javaws.jar;C:\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Java\jdk1.8.0_231\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Java\jdk1.8.0_231\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_231\jre\lib\plugin.jar;C:\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\target\test-classes;C:\Users\x\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\x\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\x\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\x\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\x\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\x\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\x\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\x\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\x\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\x\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\x\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\x\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\x\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\x\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\x\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\x\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\x\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\x\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\x\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\x\.m2\repository\org\assertj\assertj-core\3.10.0\assertj-core-3.10.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-java\3.12.0\selenium-java-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-api\3.12.0\selenium-api-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.12.0\selenium-chrome-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.12.0\selenium-edge-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.12.0\selenium-firefox-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.12.0\selenium-ie-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.12.0\selenium-opera-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.12.0\selenium-remote-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.12.0\selenium-safari-driver-3.12.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-support\3.12.0\selenium-support-3.12.0.jar;C:\Users\x\.m2\repository\net\bytebuddy\byte-buddy\1.8.3\byte-buddy-1.8.3.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\x\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\x\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\x\.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\x\.m2\repository\com\squareup\okhttp3\okhttp\3.9.1\okhttp-3.9.1.jar;C:\Users\x\.m2\repository\com\squareup\okio\okio\1.13.0\okio-1.13.0.jar;C:\Users\x\.m2\repository\io\github\bonigarcia\webdrivermanager\3.7.1\webdrivermanager-3.7.1.jar;C:\Users\x\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\x\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\x\.m2\repository\org\jsoup\jsoup\1.11.3\jsoup-1.11.3.jar;C:\Users\x\.m2\repository\org\reflections\reflections\0.9.10\reflections-0.9.10.jar;C:\Users\x\.m2\repository\org\javassist\javassist\3.19.0-GA\javassist-3.19.0-GA.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\x\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\x\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+06-05-2021 23:20:46.621 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk-15.0.1\bin\java.exe
+06-05-2021 23:20:46.621 [java] [DEBUG] running - C:\Program Files\Java\jdk-15.0.1\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+06-05-2021 23:20:46.621 [java] [DEBUG] stdout/stderr is logged to logs\4128-java.exe.out
+06-05-2021 23:20:47.148 [java] [DEBUG] multithreading is set to false
+06-05-2021 23:20:48.132 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+06-05-2021 23:20:48.256 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+06-05-2021 23:20:48.256 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+06-05-2021 23:20:48.256 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+06-05-2021 23:20:49.177 [java] [DEBUG] gauge-java took 2000milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+06-05-2021 23:20:49.177 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 2000
+06-05-2021 23:20:49.177 [java] [DEBUG] starting gRPC server...
+06-05-2021 23:20:49.988 [java] [DEBUG] started gRPC server on port 50465
+06-05-2021 23:20:49.989 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50465
+06-05-2021 23:20:50.321 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50465
+06-05-2021 23:20:50.321 [Gauge] [DEBUG] Validation started.
+06-05-2021 23:20:54.478 [java] [DEBUG] Scanning packages for steps
+06-05-2021 23:20:54.498 [java] [DEBUG] Comparing 'Tests.SaleTest.validateThePhoneNumber' and 'Tests.SaleTest.validateThePhoneNumber'
+06-05-2021 23:20:54.498 [java] [DEBUG] Found Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) in current project scope.
+06-05-2021 23:20:54.498 [java] [DEBUG] Comparing 'Tests.SaleTest.rentFilterSearch' and 'Tests.SaleTest.rentFilterSearch'
+06-05-2021 23:20:54.498 [java] [DEBUG] Found Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; in current project scope.
+06-05-2021 23:20:54.499 [java] [DEBUG] Comparing 'Tests.SaleTest.chekIfFilterArea' and 'Tests.SaleTest.chekIfFilterArea'
+06-05-2021 23:20:54.499 [java] [DEBUG] Found Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; in current project scope.
+06-05-2021 23:20:54.499 [java] [DEBUG] Comparing 'Tests.SaleTest.firstHouseForRentDetailPage' and 'Tests.SaleTest.firstHouseForRentDetailPage'
+06-05-2021 23:20:54.500 [java] [DEBUG] Found WEB: On the Detail page there is a “Show Phone Number” link on the right. in current project scope.
+06-05-2021 23:20:54.500 [java] [DEBUG] Comparing 'Tests.SaleTest.saleFilterSearch' and 'Tests.SaleTest.saleFilterSearch'
+06-05-2021 23:20:54.500 [java] [DEBUG] Found Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; in current project scope.
+06-05-2021 23:20:54.501 [java] [DEBUG] Comparing 'Tests.HomeTest.clickForRent' and 'Tests.HomeTest.clickForRent'
+06-05-2021 23:20:54.501 [java] [DEBUG] Found Click on “Kiralık” in current project scope.
+06-05-2021 23:20:54.501 [java] [DEBUG] Comparing 'Tests.HomeTest.clickForSale' and 'Tests.HomeTest.clickForSale'
+06-05-2021 23:20:54.501 [java] [DEBUG] Found Click on “Satılık” in current project scope.
+06-05-2021 23:20:54.501 [java] [DEBUG] Comparing 'Tests.SaleTest.clickSearch' and 'Tests.SaleTest.clickSearch'
+06-05-2021 23:20:54.502 [java] [DEBUG] Found Click Search in current project scope.
+06-05-2021 23:20:54.502 [java] [DEBUG] Comparing 'Tests.HomeTest.userVisitSite' and 'Tests.HomeTest.userVisitSite'
+06-05-2021 23:20:54.502 [java] [DEBUG] Found Go to Main Page in current project scope.
+06-05-2021 23:20:54.502 [java] [DEBUG] Comparing 'Tests.SaleTest.selectedFirstHouseForRent' and 'Tests.SaleTest.selectedFirstHouseForRent'
+06-05-2021 23:20:54.502 [java] [DEBUG] Found Click on the 3rd listing on the results and go to listing detail page. in current project scope.
+06-05-2021 23:20:54.502 [java] [DEBUG] Scanning packages for hooks
+06-05-2021 23:20:54.514 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+06-05-2021 23:20:54.514 [java] [DEBUG] 	Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; : public void chekIfFilterArea()
+06-05-2021 23:20:54.514 [java] [DEBUG] 	Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) : public void validateThePhoneNumber()
+06-05-2021 23:20:54.514 [java] [DEBUG] 	Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; : public void saleFilterSearch()
+06-05-2021 23:20:54.514 [java] [DEBUG] 	Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; : public void rentFilterSearch()
+06-05-2021 23:20:54.515 [java] [DEBUG] 	Click Search : public void clickSearch()
+06-05-2021 23:20:54.515 [java] [DEBUG] 	Go to Main Page : public void userVisitSite()
+06-05-2021 23:20:54.515 [java] [DEBUG] 	Click on the 3rd listing on the results and go to listing detail page. : public void selectedFirstHouseForRent()
+06-05-2021 23:20:54.515 [java] [DEBUG] 	Click on “Satılık” : public void clickForSale()
+06-05-2021 23:20:54.515 [java] [DEBUG] 	WEB: On the Detail page there is a “Show Phone Number” link on the right. : public void firstHouseForRentDetailPage()
+06-05-2021 23:20:54.516 [java] [DEBUG] 	Click on “Kiralık” : public void clickForRent()
+06-05-2021 23:20:58.610 [Gauge] [DEBUG] Validation completed.
+06-05-2021 23:20:58.611 [Gauge] [DEBUG] Run started
+06-05-2021 23:20:58.614 [Gauge] [DEBUG] Starting Html Report plugin
+06-05-2021 23:20:58.732 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50469
+06-05-2021 23:20:58.734 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50469
+06-05-2021 23:20:58.734 [Gauge] [DEBUG] Initialising suite data store.
+06-05-2021 23:21:32.256 [html-report] [DEBUG] Transformed SuiteResult to report structure
+06-05-2021 23:21:32.296 [html-report] [INFO] Successfully generated html-report to => C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\reports\html-report\index.html
+06-05-2021 23:21:32.296 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\x\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+06-05-2021 23:21:32.296 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+06-05-2021 23:21:32.342 [java] [DEBUG] Killing Java runner...
+06-05-2021 23:21:32.343 [java] [DEBUG] Stopping execution pool...
+06-05-2021 23:21:32.343 [java] [DEBUG] Shutting down grpc server...
+06-05-2021 23:21:32.347 [java] [DEBUG] Runner killed gracefully.
+06-05-2021 23:21:32.936 [Gauge] [DEBUG] Runner with PID:4128 has exited
+06-05-2021 23:21:32.936 [Gauge] [INFO] Specifications:	0 executed	0 passed	0 failed	0 skipped
+06-05-2021 23:21:32.936 [Gauge] [INFO] Scenarios:	0 executed	0 passed	0 failed	0 skipped
+06-05-2021 23:21:32.936 [Gauge] [INFO] 
+Total time taken: 33.638s
+06-05-2021 23:21:32.937 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+06-05-2021 23:24:31.449 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\.gauge\screenshots
+06-05-2021 23:24:31.534 [Gauge] [DEBUG] Plugin java is already installed.
+06-05-2021 23:24:31.536 [Gauge] [DEBUG] Plugin html-report is already installed.
+06-05-2021 23:24:31.537 [Gauge] [DEBUG] Parsing started.
+06-05-2021 23:24:31.537 [Gauge] [DEBUG] Started concepts parsing.
+06-05-2021 23:24:31.597 [Gauge] [DEBUG] 0 concepts parsing completed.
+06-05-2021 23:24:31.600 [Gauge] [DEBUG] Started specifications parsing.
+06-05-2021 23:24:31.602 [Gauge] [DEBUG] 1 specifications parsing completed.
+06-05-2021 23:24:31.602 [Gauge] [DEBUG] Parsing completed.
+06-05-2021 23:24:31.709 [java] [DEBUG] ***** Printing Properties/Env Values *****
+06-05-2021 23:24:31.709 [java] [DEBUG] PATH: "C:\Program Files\Java\jdk-15.0.1\bin;C:\Program Files\Common Files\Oracle\Java\javapath";C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2018b\runtime\win64;C:\Program Files\MATLAB\R2018b\bin;C:\Program Files\MATLAB\R2014a\runtime\win64;C:\Program Files\MATLAB\R2014a\bin;C:\Program Files\MATLAB\R2014a\polyspace\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Brackets\command;C:\Program Files\Java\jdk-15.0.1\lib;C:\Program Files\Java\jdk-15.0.1\bin;C:\Users\x\AppData\Local\Android\Sdk\tools;C:\Users\x\AppData\Local\Android\Sdk\build-tools;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\apache-maven-3.6.3;C:\Program Files\Android\Android Studio\bin;C:\Program Files\Git\cmd;C:\Program Files\Gauge\bin;C:\Users\x\AppData\Local\Microsoft\WindowsApps;C:\apache-maven-3.6.3\bin;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\Users\x\AppData\Local\Android\Sdk;;C:\Users\x\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+06-05-2021 23:24:31.709 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-15.0.1
+06-05-2021 23:24:31.709 [java] [DEBUG] gauge_project_root: C:\Users\x\Desktop\HurriyetemlakTestOtomasyon
+06-05-2021 23:24:31.709 [java] [DEBUG] gauge_parallel_streams_count: 4
+06-05-2021 23:24:31.709 [java] [DEBUG] gauge_reports_dir: reports
+06-05-2021 23:24:31.709 [java] [DEBUG] overwrite_reports: true
+06-05-2021 23:24:31.709 [java] [DEBUG] logs_directory: logs
+06-05-2021 23:24:31.709 [java] [DEBUG] enable_multithreading: false
+06-05-2021 23:24:31.709 [java] [DEBUG] gauge_specs_dir: specs
+06-05-2021 23:24:31.709 [java] [DEBUG] csv_delimiter: ,
+06-05-2021 23:24:31.709 [java] [DEBUG] gauge_java_home: 
+06-05-2021 23:24:31.709 [java] [DEBUG] gauge_custom_build_path: 
+06-05-2021 23:24:31.709 [java] [DEBUG] gauge_additional_libs: libs/*
+06-05-2021 23:24:31.709 [java] [DEBUG] gauge_jvm_args: 
+06-05-2021 23:24:31.709 [java] [DEBUG] gauge_custom_compile_dir: 
+06-05-2021 23:24:31.709 [java] [DEBUG] gauge_clear_state_level: scenario
+06-05-2021 23:24:31.709 [java] [DEBUG] ***** END *****
+06-05-2021 23:24:32.114 [Gauge] [DEBUG] Checking updates...
+06-05-2021 23:24:32.118 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:24:32.779 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:24:32.945 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:24:41.166 [java] [ERROR] Installed version of gauge-java (0.7.13) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+06-05-2021 23:24:41.167 [java] [DEBUG] classpath set to C:\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Java\jdk1.8.0_231\jre\lib\deploy.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_231\jre\lib\javaws.jar;C:\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Java\jdk1.8.0_231\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Java\jdk1.8.0_231\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_231\jre\lib\plugin.jar;C:\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\target\test-classes;C:\Users\x\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\x\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\x\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\x\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\x\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\x\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\x\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\x\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\x\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\x\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\x\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\x\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\x\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\x\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\x\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\x\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\x\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\x\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\x\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\x\.m2\repository\org\assertj\assertj-core\3.10.0\assertj-core-3.10.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\x\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\x\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\x\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\x\.m2\repository\io\github\bonigarcia\webdrivermanager\4.2.0\webdrivermanager-4.2.0.jar;C:\Users\x\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\x\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.1\httpclient5-5.0.1.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.1\httpcore5-5.0.1.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.1\httpcore5-h2-5.0.1.jar;C:\Users\x\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\x\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\x\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\x\.m2\repository\org\reflections\reflections\0.9.10\reflections-0.9.10.jar;C:\Users\x\.m2\repository\org\javassist\javassist\3.19.0-GA\javassist-3.19.0-GA.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\x\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\x\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+06-05-2021 23:24:41.273 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk-15.0.1\bin\java.exe
+06-05-2021 23:24:41.273 [java] [DEBUG] running - C:\Program Files\Java\jdk-15.0.1\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+06-05-2021 23:24:41.273 [java] [DEBUG] stdout/stderr is logged to logs\8460-java.exe.out
+06-05-2021 23:24:41.875 [java] [DEBUG] multithreading is set to false
+06-05-2021 23:24:42.584 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+06-05-2021 23:24:42.952 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+06-05-2021 23:24:42.952 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+06-05-2021 23:24:42.952 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+06-05-2021 23:24:43.752 [java] [DEBUG] gauge-java took 1870milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+06-05-2021 23:24:43.752 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1870
+06-05-2021 23:24:43.752 [java] [DEBUG] starting gRPC server...
+06-05-2021 23:24:44.110 [java] [DEBUG] started gRPC server on port 50575
+06-05-2021 23:24:44.111 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50575
+06-05-2021 23:24:44.370 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50575
+06-05-2021 23:24:44.370 [Gauge] [DEBUG] Validation started.
+06-05-2021 23:24:50.245 [java] [DEBUG] Scanning packages for steps
+06-05-2021 23:24:50.264 [java] [DEBUG] Comparing 'Tests.SaleTest.validateThePhoneNumber' and 'Tests.SaleTest.validateThePhoneNumber'
+06-05-2021 23:24:50.264 [java] [DEBUG] Found Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) in current project scope.
+06-05-2021 23:24:50.264 [java] [DEBUG] Comparing 'Tests.SaleTest.rentFilterSearch' and 'Tests.SaleTest.rentFilterSearch'
+06-05-2021 23:24:50.265 [java] [DEBUG] Found Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; in current project scope.
+06-05-2021 23:24:50.265 [java] [DEBUG] Comparing 'Tests.SaleTest.chekIfFilterArea' and 'Tests.SaleTest.chekIfFilterArea'
+06-05-2021 23:24:50.265 [java] [DEBUG] Found Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; in current project scope.
+06-05-2021 23:24:50.266 [java] [DEBUG] Comparing 'Tests.SaleTest.firstHouseForRentDetailPage' and 'Tests.SaleTest.firstHouseForRentDetailPage'
+06-05-2021 23:24:50.266 [java] [DEBUG] Found WEB: On the Detail page there is a “Show Phone Number” link on the right. in current project scope.
+06-05-2021 23:24:50.266 [java] [DEBUG] Comparing 'Tests.SaleTest.saleFilterSearch' and 'Tests.SaleTest.saleFilterSearch'
+06-05-2021 23:24:50.266 [java] [DEBUG] Found Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; in current project scope.
+06-05-2021 23:24:50.266 [java] [DEBUG] Comparing 'Tests.HomeTest.clickForRent' and 'Tests.HomeTest.clickForRent'
+06-05-2021 23:24:50.267 [java] [DEBUG] Found Click on “Kiralık” in current project scope.
+06-05-2021 23:24:50.267 [java] [DEBUG] Comparing 'Tests.HomeTest.clickForSale' and 'Tests.HomeTest.clickForSale'
+06-05-2021 23:24:50.267 [java] [DEBUG] Found Click on “Satılık” in current project scope.
+06-05-2021 23:24:50.267 [java] [DEBUG] Comparing 'Tests.SaleTest.clickSearch' and 'Tests.SaleTest.clickSearch'
+06-05-2021 23:24:50.267 [java] [DEBUG] Found Click Search in current project scope.
+06-05-2021 23:24:50.267 [java] [DEBUG] Comparing 'Tests.HomeTest.userVisitSite' and 'Tests.HomeTest.userVisitSite'
+06-05-2021 23:24:50.268 [java] [DEBUG] Found Go to Main Page in current project scope.
+06-05-2021 23:24:50.268 [java] [DEBUG] Comparing 'Tests.SaleTest.selectedFirstHouseForRent' and 'Tests.SaleTest.selectedFirstHouseForRent'
+06-05-2021 23:24:50.268 [java] [DEBUG] Found Click on the 3rd listing on the results and go to listing detail page. in current project scope.
+06-05-2021 23:24:50.268 [java] [DEBUG] Scanning packages for hooks
+06-05-2021 23:24:50.279 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+06-05-2021 23:24:50.279 [java] [DEBUG] 	Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; : public void chekIfFilterArea()
+06-05-2021 23:24:50.280 [java] [DEBUG] 	Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) : public void validateThePhoneNumber()
+06-05-2021 23:24:50.280 [java] [DEBUG] 	Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; : public void saleFilterSearch()
+06-05-2021 23:24:50.306 [java] [DEBUG] 	Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; : public void rentFilterSearch()
+06-05-2021 23:24:50.306 [java] [DEBUG] 	Click Search : public void clickSearch()
+06-05-2021 23:24:50.306 [java] [DEBUG] 	Go to Main Page : public void userVisitSite()
+06-05-2021 23:24:50.306 [java] [DEBUG] 	Click on the 3rd listing on the results and go to listing detail page. : public void selectedFirstHouseForRent()
+06-05-2021 23:24:50.306 [java] [DEBUG] 	Click on “Satılık” : public void clickForSale()
+06-05-2021 23:24:50.306 [java] [DEBUG] 	WEB: On the Detail page there is a “Show Phone Number” link on the right. : public void firstHouseForRentDetailPage()
+06-05-2021 23:24:50.306 [java] [DEBUG] 	Click on “Kiralık” : public void clickForRent()
+06-05-2021 23:24:53.992 [Gauge] [DEBUG] Validation completed.
+06-05-2021 23:24:53.992 [Gauge] [DEBUG] Run started
+06-05-2021 23:24:53.995 [Gauge] [DEBUG] Starting Html Report plugin
+06-05-2021 23:24:54.264 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50578
+06-05-2021 23:24:54.266 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50578
+06-05-2021 23:24:54.266 [Gauge] [DEBUG] Initialising suite data store.
+06-05-2021 23:24:59.234 [java] [ERROR] Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 5208
+06-05-2021 23:24:59.234 [java] [ERROR] Only local connections are allowed.
+06-05-2021 23:24:59.234 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+06-05-2021 23:24:59.254 [java] [ERROR] ChromeDriver was started successfully.
+06-05-2021 23:25:08.309 [java] [ERROR] May 06, 2021 11:25:06 ÖS org.openqa.selenium.remote.ProtocolHandshake createSession
+06-05-2021 23:25:08.309 [java] [ERROR] INFO: Detected dialect: W3C
+06-05-2021 23:25:08.508 [java] [DEBUG] Executing 'Go to Main Page' using 'class Tests.HomeTest.userVisitSite
+06-05-2021 23:25:26.529 [java] [DEBUG] Executing 'Click on “Satılık”' using 'class Tests.HomeTest.clickForSale
+06-05-2021 23:25:27.022 [java] [DEBUG] Executing 'Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10;' using 'class Tests.SaleTest.saleFilterSearch
+06-05-2021 23:25:38.838 [java] [DEBUG] Executing 'Click Search' using 'class Tests.SaleTest.clickSearch
+06-05-2021 23:25:40.077 [java] [DEBUG] Executing 'Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10;' using 'class Tests.SaleTest.chekIfFilterArea
+06-05-2021 23:25:44.067 [html-report] [DEBUG] Transformed SuiteResult to report structure
+06-05-2021 23:25:44.156 [html-report] [INFO] Successfully generated html-report to => C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\reports\html-report\index.html
+06-05-2021 23:25:44.156 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\x\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+06-05-2021 23:25:44.156 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+06-05-2021 23:25:44.162 [java] [DEBUG] Killing Java runner...
+06-05-2021 23:25:44.163 [java] [DEBUG] Stopping execution pool...
+06-05-2021 23:25:44.163 [java] [DEBUG] Shutting down grpc server...
+06-05-2021 23:25:44.180 [java] [DEBUG] Runner killed gracefully.
+06-05-2021 23:25:44.983 [Gauge] [DEBUG] Runner with PID:8460 has exited
+06-05-2021 23:25:44.983 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+06-05-2021 23:25:44.983 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+06-05-2021 23:25:44.983 [Gauge] [INFO] 
+Total time taken: 50.073s
+06-05-2021 23:25:44.984 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+06-05-2021 23:26:58.289 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\.gauge\screenshots
+06-05-2021 23:26:58.292 [Gauge] [DEBUG] Plugin java is already installed.
+06-05-2021 23:26:58.296 [Gauge] [DEBUG] Plugin html-report is already installed.
+06-05-2021 23:26:58.298 [Gauge] [DEBUG] Parsing started.
+06-05-2021 23:26:58.298 [Gauge] [DEBUG] Started concepts parsing.
+06-05-2021 23:26:58.316 [Gauge] [DEBUG] 0 concepts parsing completed.
+06-05-2021 23:26:58.316 [Gauge] [DEBUG] Started specifications parsing.
+06-05-2021 23:26:58.318 [Gauge] [DEBUG] 1 specifications parsing completed.
+06-05-2021 23:26:58.318 [Gauge] [DEBUG] Parsing completed.
+06-05-2021 23:26:58.397 [java] [DEBUG] ***** Printing Properties/Env Values *****
+06-05-2021 23:26:58.397 [java] [DEBUG] PATH: "C:\Program Files\Java\jdk-15.0.1\bin;C:\Program Files\Common Files\Oracle\Java\javapath";C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2018b\runtime\win64;C:\Program Files\MATLAB\R2018b\bin;C:\Program Files\MATLAB\R2014a\runtime\win64;C:\Program Files\MATLAB\R2014a\bin;C:\Program Files\MATLAB\R2014a\polyspace\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Brackets\command;C:\Program Files\Java\jdk-15.0.1\lib;C:\Program Files\Java\jdk-15.0.1\bin;C:\Users\x\AppData\Local\Android\Sdk\tools;C:\Users\x\AppData\Local\Android\Sdk\build-tools;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\apache-maven-3.6.3;C:\Program Files\Android\Android Studio\bin;C:\Program Files\Git\cmd;C:\Program Files\Gauge\bin;C:\Users\x\AppData\Local\Microsoft\WindowsApps;C:\apache-maven-3.6.3\bin;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\Users\x\AppData\Local\Android\Sdk;;C:\Users\x\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+06-05-2021 23:26:58.397 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-15.0.1
+06-05-2021 23:26:58.397 [java] [DEBUG] gauge_project_root: C:\Users\x\Desktop\HurriyetemlakTestOtomasyon
+06-05-2021 23:26:58.397 [java] [DEBUG] gauge_parallel_streams_count: 4
+06-05-2021 23:26:58.397 [java] [DEBUG] gauge_reports_dir: reports
+06-05-2021 23:26:58.397 [java] [DEBUG] overwrite_reports: true
+06-05-2021 23:26:58.397 [java] [DEBUG] logs_directory: logs
+06-05-2021 23:26:58.397 [java] [DEBUG] enable_multithreading: false
+06-05-2021 23:26:58.397 [java] [DEBUG] gauge_specs_dir: specs
+06-05-2021 23:26:58.397 [java] [DEBUG] csv_delimiter: ,
+06-05-2021 23:26:58.397 [java] [DEBUG] gauge_java_home: 
+06-05-2021 23:26:58.397 [java] [DEBUG] gauge_custom_build_path: 
+06-05-2021 23:26:58.397 [java] [DEBUG] gauge_additional_libs: libs/*
+06-05-2021 23:26:58.397 [java] [DEBUG] gauge_jvm_args: 
+06-05-2021 23:26:58.397 [java] [DEBUG] gauge_custom_compile_dir: 
+06-05-2021 23:26:58.397 [java] [DEBUG] gauge_clear_state_level: scenario
+06-05-2021 23:26:58.397 [java] [DEBUG] ***** END *****
+06-05-2021 23:26:59.052 [Gauge] [DEBUG] Checking updates...
+06-05-2021 23:26:59.065 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:26:59.806 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:27:00.112 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:27:06.593 [java] [ERROR] Installed version of gauge-java (0.7.13) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+06-05-2021 23:27:06.593 [java] [DEBUG] classpath set to C:\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Java\jdk1.8.0_231\jre\lib\deploy.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_231\jre\lib\javaws.jar;C:\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Java\jdk1.8.0_231\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Java\jdk1.8.0_231\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_231\jre\lib\plugin.jar;C:\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\target\test-classes;C:\Users\x\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\x\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\x\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\x\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\x\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\x\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\x\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\x\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\x\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\x\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\x\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\x\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\x\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\x\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\x\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\x\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\x\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\x\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\x\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\x\.m2\repository\org\assertj\assertj-core\3.10.0\assertj-core-3.10.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\x\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\x\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\x\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\x\.m2\repository\io\github\bonigarcia\webdrivermanager\4.2.0\webdrivermanager-4.2.0.jar;C:\Users\x\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\x\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.1\httpclient5-5.0.1.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.1\httpcore5-5.0.1.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.1\httpcore5-h2-5.0.1.jar;C:\Users\x\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\x\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\x\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\x\.m2\repository\org\reflections\reflections\0.9.10\reflections-0.9.10.jar;C:\Users\x\.m2\repository\org\javassist\javassist\3.19.0-GA\javassist-3.19.0-GA.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\x\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\x\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+06-05-2021 23:27:06.670 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk-15.0.1\bin\java.exe
+06-05-2021 23:27:06.670 [java] [DEBUG] running - C:\Program Files\Java\jdk-15.0.1\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+06-05-2021 23:27:06.670 [java] [DEBUG] stdout/stderr is logged to logs\11288-java.exe.out
+06-05-2021 23:27:07.076 [java] [DEBUG] multithreading is set to false
+06-05-2021 23:27:07.823 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+06-05-2021 23:27:08.003 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+06-05-2021 23:27:08.003 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+06-05-2021 23:27:08.003 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+06-05-2021 23:27:09.013 [java] [DEBUG] gauge-java took 1919milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+06-05-2021 23:27:09.013 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1919
+06-05-2021 23:27:09.013 [java] [DEBUG] starting gRPC server...
+06-05-2021 23:27:09.498 [java] [DEBUG] started gRPC server on port 50723
+06-05-2021 23:27:09.501 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50723
+06-05-2021 23:27:09.790 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50723
+06-05-2021 23:27:09.790 [Gauge] [DEBUG] Validation started.
+06-05-2021 23:27:14.484 [java] [DEBUG] Scanning packages for steps
+06-05-2021 23:27:14.513 [java] [DEBUG] Comparing 'Tests.SaleTest.validateThePhoneNumber' and 'Tests.SaleTest.validateThePhoneNumber'
+06-05-2021 23:27:14.513 [java] [DEBUG] Found Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) in current project scope.
+06-05-2021 23:27:14.514 [java] [DEBUG] Comparing 'Tests.SaleTest.rentFilterSearch' and 'Tests.SaleTest.rentFilterSearch'
+06-05-2021 23:27:14.514 [java] [DEBUG] Found Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; in current project scope.
+06-05-2021 23:27:14.514 [java] [DEBUG] Comparing 'Tests.SaleTest.chekIfFilterArea' and 'Tests.SaleTest.chekIfFilterArea'
+06-05-2021 23:27:14.515 [java] [DEBUG] Found Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; in current project scope.
+06-05-2021 23:27:14.515 [java] [DEBUG] Comparing 'Tests.SaleTest.firstHouseForRentDetailPage' and 'Tests.SaleTest.firstHouseForRentDetailPage'
+06-05-2021 23:27:14.515 [java] [DEBUG] Found WEB: On the Detail page there is a “Show Phone Number” link on the right. in current project scope.
+06-05-2021 23:27:14.516 [java] [DEBUG] Comparing 'Tests.SaleTest.saleFilterSearch' and 'Tests.SaleTest.saleFilterSearch'
+06-05-2021 23:27:14.516 [java] [DEBUG] Found Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; in current project scope.
+06-05-2021 23:27:14.516 [java] [DEBUG] Comparing 'Tests.HomeTest.clickForRent' and 'Tests.HomeTest.clickForRent'
+06-05-2021 23:27:14.516 [java] [DEBUG] Found Click on “Kiralık” in current project scope.
+06-05-2021 23:27:14.517 [java] [DEBUG] Comparing 'Tests.HomeTest.clickForSale' and 'Tests.HomeTest.clickForSale'
+06-05-2021 23:27:14.517 [java] [DEBUG] Found Click on “Satılık” in current project scope.
+06-05-2021 23:27:14.517 [java] [DEBUG] Comparing 'Tests.SaleTest.clickSearch' and 'Tests.SaleTest.clickSearch'
+06-05-2021 23:27:14.517 [java] [DEBUG] Found Click Search in current project scope.
+06-05-2021 23:27:14.517 [java] [DEBUG] Comparing 'Tests.HomeTest.userVisitSite' and 'Tests.HomeTest.userVisitSite'
+06-05-2021 23:27:14.517 [java] [DEBUG] Found Go to Main Page in current project scope.
+06-05-2021 23:27:14.518 [java] [DEBUG] Comparing 'Tests.SaleTest.selectedFirstHouseForRent' and 'Tests.SaleTest.selectedFirstHouseForRent'
+06-05-2021 23:27:14.518 [java] [DEBUG] Found Click on the 3rd listing on the results and go to listing detail page. in current project scope.
+06-05-2021 23:27:14.518 [java] [DEBUG] Scanning packages for hooks
+06-05-2021 23:27:14.526 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+06-05-2021 23:27:14.527 [java] [DEBUG] 	Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; : public void chekIfFilterArea()
+06-05-2021 23:27:14.527 [java] [DEBUG] 	Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) : public void validateThePhoneNumber()
+06-05-2021 23:27:14.527 [java] [DEBUG] 	Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; : public void saleFilterSearch()
+06-05-2021 23:27:14.527 [java] [DEBUG] 	Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; : public void rentFilterSearch()
+06-05-2021 23:27:14.527 [java] [DEBUG] 	Click Search : public void clickSearch()
+06-05-2021 23:27:14.528 [java] [DEBUG] 	Go to Main Page : public void userVisitSite()
+06-05-2021 23:27:14.528 [java] [DEBUG] 	Click on the 3rd listing on the results and go to listing detail page. : public void selectedFirstHouseForRent()
+06-05-2021 23:27:14.528 [java] [DEBUG] 	Click on “Satılık” : public void clickForSale()
+06-05-2021 23:27:14.528 [java] [DEBUG] 	WEB: On the Detail page there is a “Show Phone Number” link on the right. : public void firstHouseForRentDetailPage()
+06-05-2021 23:27:14.530 [java] [DEBUG] 	Click on “Kiralık” : public void clickForRent()
+06-05-2021 23:27:18.114 [Gauge] [DEBUG] Validation completed.
+06-05-2021 23:27:18.115 [Gauge] [DEBUG] Run started
+06-05-2021 23:27:19.080 [Gauge] [DEBUG] Starting Html Report plugin
+06-05-2021 23:27:20.942 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50727
+06-05-2021 23:27:20.944 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50727
+06-05-2021 23:27:20.944 [Gauge] [DEBUG] Initialising suite data store.
+06-05-2021 23:27:23.273 [java] [ERROR] Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 47267
+06-05-2021 23:27:23.273 [java] [ERROR] Only local connections are allowed.
+06-05-2021 23:27:23.273 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+06-05-2021 23:27:23.291 [java] [ERROR] ChromeDriver was started successfully.
+06-05-2021 23:27:26.195 [java] [ERROR] May 06, 2021 11:27:26 ÖS org.openqa.selenium.remote.ProtocolHandshake createSession
+06-05-2021 23:27:26.195 [java] [ERROR] INFO: Detected dialect: W3C
+06-05-2021 23:27:26.390 [java] [DEBUG] Executing 'Go to Main Page' using 'class Tests.HomeTest.userVisitSite
+06-05-2021 23:27:37.690 [java] [DEBUG] Executing 'Click on “Satılık”' using 'class Tests.HomeTest.clickForSale
+06-05-2021 23:27:37.992 [java] [DEBUG] Executing 'Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10;' using 'class Tests.SaleTest.saleFilterSearch
+06-05-2021 23:27:48.674 [java] [DEBUG] Executing 'Click Search' using 'class Tests.SaleTest.clickSearch
+06-05-2021 23:27:50.237 [java] [DEBUG] Executing 'Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10;' using 'class Tests.SaleTest.chekIfFilterArea
+06-05-2021 23:27:53.965 [html-report] [DEBUG] Transformed SuiteResult to report structure
+06-05-2021 23:27:54.024 [html-report] [INFO] Successfully generated html-report to => C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\reports\html-report\index.html
+06-05-2021 23:27:54.024 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\x\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+06-05-2021 23:27:54.024 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+06-05-2021 23:27:54.056 [java] [DEBUG] Killing Java runner...
+06-05-2021 23:27:54.056 [java] [DEBUG] Stopping execution pool...
+06-05-2021 23:27:54.056 [java] [DEBUG] Shutting down grpc server...
+06-05-2021 23:27:54.057 [java] [DEBUG] Runner killed gracefully.
+06-05-2021 23:27:54.559 [Gauge] [DEBUG] Runner with PID:11288 has exited
+06-05-2021 23:27:54.559 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+06-05-2021 23:27:54.560 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+06-05-2021 23:27:54.560 [Gauge] [INFO] 
+Total time taken: 35.849s
+06-05-2021 23:27:54.561 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+06-05-2021 23:27:59.523 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\.gauge\screenshots
+06-05-2021 23:27:59.529 [Gauge] [DEBUG] Plugin java is already installed.
+06-05-2021 23:27:59.531 [Gauge] [DEBUG] Plugin html-report is already installed.
+06-05-2021 23:27:59.532 [Gauge] [DEBUG] Parsing started.
+06-05-2021 23:27:59.532 [Gauge] [DEBUG] Started concepts parsing.
+06-05-2021 23:27:59.548 [Gauge] [DEBUG] 0 concepts parsing completed.
+06-05-2021 23:27:59.549 [Gauge] [DEBUG] Started specifications parsing.
+06-05-2021 23:27:59.550 [Gauge] [DEBUG] 1 specifications parsing completed.
+06-05-2021 23:27:59.550 [Gauge] [DEBUG] Parsing completed.
+06-05-2021 23:27:59.775 [java] [DEBUG] ***** Printing Properties/Env Values *****
+06-05-2021 23:27:59.775 [java] [DEBUG] PATH: "C:\Program Files\Java\jdk-15.0.1\bin;C:\Program Files\Common Files\Oracle\Java\javapath";C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2018b\runtime\win64;C:\Program Files\MATLAB\R2018b\bin;C:\Program Files\MATLAB\R2014a\runtime\win64;C:\Program Files\MATLAB\R2014a\bin;C:\Program Files\MATLAB\R2014a\polyspace\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Brackets\command;C:\Program Files\Java\jdk-15.0.1\lib;C:\Program Files\Java\jdk-15.0.1\bin;C:\Users\x\AppData\Local\Android\Sdk\tools;C:\Users\x\AppData\Local\Android\Sdk\build-tools;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\apache-maven-3.6.3;C:\Program Files\Android\Android Studio\bin;C:\Program Files\Git\cmd;C:\Program Files\Gauge\bin;C:\Users\x\AppData\Local\Microsoft\WindowsApps;C:\apache-maven-3.6.3\bin;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\Users\x\AppData\Local\Android\Sdk;;C:\Users\x\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+06-05-2021 23:27:59.776 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-15.0.1
+06-05-2021 23:27:59.776 [java] [DEBUG] gauge_project_root: C:\Users\x\Desktop\HurriyetemlakTestOtomasyon
+06-05-2021 23:27:59.776 [java] [DEBUG] gauge_parallel_streams_count: 4
+06-05-2021 23:27:59.776 [java] [DEBUG] gauge_reports_dir: reports
+06-05-2021 23:27:59.776 [java] [DEBUG] overwrite_reports: true
+06-05-2021 23:27:59.776 [java] [DEBUG] logs_directory: logs
+06-05-2021 23:27:59.776 [java] [DEBUG] enable_multithreading: false
+06-05-2021 23:27:59.776 [java] [DEBUG] gauge_specs_dir: specs
+06-05-2021 23:27:59.776 [java] [DEBUG] csv_delimiter: ,
+06-05-2021 23:27:59.776 [java] [DEBUG] gauge_java_home: 
+06-05-2021 23:27:59.776 [java] [DEBUG] gauge_custom_build_path: 
+06-05-2021 23:27:59.776 [java] [DEBUG] gauge_additional_libs: libs/*
+06-05-2021 23:27:59.776 [java] [DEBUG] gauge_jvm_args: 
+06-05-2021 23:27:59.776 [java] [DEBUG] gauge_custom_compile_dir: 
+06-05-2021 23:27:59.776 [java] [DEBUG] gauge_clear_state_level: scenario
+06-05-2021 23:27:59.776 [java] [DEBUG] ***** END *****
+06-05-2021 23:28:00.063 [Gauge] [DEBUG] Checking updates...
+06-05-2021 23:28:00.211 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:28:00.926 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:28:01.185 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:28:08.562 [java] [ERROR] Installed version of gauge-java (0.7.13) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+06-05-2021 23:28:08.562 [java] [DEBUG] classpath set to C:\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Java\jdk1.8.0_231\jre\lib\deploy.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_231\jre\lib\javaws.jar;C:\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Java\jdk1.8.0_231\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Java\jdk1.8.0_231\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_231\jre\lib\plugin.jar;C:\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\target\test-classes;C:\Users\x\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\x\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\x\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\x\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\x\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\x\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\x\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\x\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\x\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\x\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\x\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\x\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\x\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\x\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\x\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\x\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\x\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\x\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\x\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\x\.m2\repository\org\assertj\assertj-core\3.10.0\assertj-core-3.10.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\x\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\x\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\x\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\x\.m2\repository\io\github\bonigarcia\webdrivermanager\4.2.0\webdrivermanager-4.2.0.jar;C:\Users\x\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\x\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.1\httpclient5-5.0.1.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.1\httpcore5-5.0.1.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.1\httpcore5-h2-5.0.1.jar;C:\Users\x\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\x\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\x\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\x\.m2\repository\org\reflections\reflections\0.9.10\reflections-0.9.10.jar;C:\Users\x\.m2\repository\org\javassist\javassist\3.19.0-GA\javassist-3.19.0-GA.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\x\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\x\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+06-05-2021 23:28:08.637 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk-15.0.1\bin\java.exe
+06-05-2021 23:28:08.637 [java] [DEBUG] running - C:\Program Files\Java\jdk-15.0.1\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+06-05-2021 23:28:08.637 [java] [DEBUG] stdout/stderr is logged to logs\8876-java.exe.out
+06-05-2021 23:28:08.957 [java] [DEBUG] multithreading is set to false
+06-05-2021 23:28:09.764 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+06-05-2021 23:28:09.919 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+06-05-2021 23:28:09.940 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+06-05-2021 23:28:09.941 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+06-05-2021 23:28:10.680 [java] [DEBUG] gauge-java took 1706milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+06-05-2021 23:28:10.680 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1706
+06-05-2021 23:28:10.680 [java] [DEBUG] starting gRPC server...
+06-05-2021 23:28:11.142 [java] [DEBUG] started gRPC server on port 50849
+06-05-2021 23:28:11.142 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50849
+06-05-2021 23:28:11.434 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50849
+06-05-2021 23:28:11.434 [Gauge] [DEBUG] Validation started.
+06-05-2021 23:28:15.974 [java] [DEBUG] Scanning packages for steps
+06-05-2021 23:28:15.993 [java] [DEBUG] Comparing 'Tests.SaleTest.validateThePhoneNumber' and 'Tests.SaleTest.validateThePhoneNumber'
+06-05-2021 23:28:15.993 [java] [DEBUG] Found Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) in current project scope.
+06-05-2021 23:28:15.994 [java] [DEBUG] Comparing 'Tests.SaleTest.rentFilterSearch' and 'Tests.SaleTest.rentFilterSearch'
+06-05-2021 23:28:15.994 [java] [DEBUG] Found Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; in current project scope.
+06-05-2021 23:28:15.995 [java] [DEBUG] Comparing 'Tests.SaleTest.chekIfFilterArea' and 'Tests.SaleTest.chekIfFilterArea'
+06-05-2021 23:28:15.995 [java] [DEBUG] Found Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; in current project scope.
+06-05-2021 23:28:15.995 [java] [DEBUG] Comparing 'Tests.SaleTest.firstHouseForRentDetailPage' and 'Tests.SaleTest.firstHouseForRentDetailPage'
+06-05-2021 23:28:15.995 [java] [DEBUG] Found WEB: On the Detail page there is a “Show Phone Number” link on the right. in current project scope.
+06-05-2021 23:28:15.996 [java] [DEBUG] Comparing 'Tests.SaleTest.saleFilterSearch' and 'Tests.SaleTest.saleFilterSearch'
+06-05-2021 23:28:15.996 [java] [DEBUG] Found Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; in current project scope.
+06-05-2021 23:28:15.996 [java] [DEBUG] Comparing 'Tests.HomeTest.clickForRent' and 'Tests.HomeTest.clickForRent'
+06-05-2021 23:28:15.996 [java] [DEBUG] Found Click on “Kiralık” in current project scope.
+06-05-2021 23:28:15.997 [java] [DEBUG] Comparing 'Tests.HomeTest.clickForSale' and 'Tests.HomeTest.clickForSale'
+06-05-2021 23:28:15.997 [java] [DEBUG] Found Click on “Satılık” in current project scope.
+06-05-2021 23:28:15.997 [java] [DEBUG] Comparing 'Tests.SaleTest.clickSearch' and 'Tests.SaleTest.clickSearch'
+06-05-2021 23:28:15.997 [java] [DEBUG] Found Click Search in current project scope.
+06-05-2021 23:28:15.998 [java] [DEBUG] Comparing 'Tests.HomeTest.userVisitSite' and 'Tests.HomeTest.userVisitSite'
+06-05-2021 23:28:15.998 [java] [DEBUG] Found Go to Main Page in current project scope.
+06-05-2021 23:28:15.998 [java] [DEBUG] Comparing 'Tests.SaleTest.selectedFirstHouseForRent' and 'Tests.SaleTest.selectedFirstHouseForRent'
+06-05-2021 23:28:15.998 [java] [DEBUG] Found Click on the 3rd listing on the results and go to listing detail page. in current project scope.
+06-05-2021 23:28:15.998 [java] [DEBUG] Scanning packages for hooks
+06-05-2021 23:28:16.008 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+06-05-2021 23:28:16.008 [java] [DEBUG] 	Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; : public void chekIfFilterArea()
+06-05-2021 23:28:16.009 [java] [DEBUG] 	Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) : public void validateThePhoneNumber()
+06-05-2021 23:28:16.009 [java] [DEBUG] 	Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; : public void saleFilterSearch()
+06-05-2021 23:28:16.009 [java] [DEBUG] 	Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; : public void rentFilterSearch()
+06-05-2021 23:28:16.009 [java] [DEBUG] 	Click Search : public void clickSearch()
+06-05-2021 23:28:16.009 [java] [DEBUG] 	Go to Main Page : public void userVisitSite()
+06-05-2021 23:28:16.009 [java] [DEBUG] 	Click on the 3rd listing on the results and go to listing detail page. : public void selectedFirstHouseForRent()
+06-05-2021 23:28:16.009 [java] [DEBUG] 	Click on “Satılık” : public void clickForSale()
+06-05-2021 23:28:16.010 [java] [DEBUG] 	WEB: On the Detail page there is a “Show Phone Number” link on the right. : public void firstHouseForRentDetailPage()
+06-05-2021 23:28:16.011 [java] [DEBUG] 	Click on “Kiralık” : public void clickForRent()
+06-05-2021 23:28:19.669 [Gauge] [DEBUG] Validation completed.
+06-05-2021 23:28:19.670 [Gauge] [DEBUG] Run started
+06-05-2021 23:28:19.672 [Gauge] [DEBUG] Starting Html Report plugin
+06-05-2021 23:28:19.778 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50853
+06-05-2021 23:28:19.779 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50853
+06-05-2021 23:28:19.779 [Gauge] [DEBUG] Initialising suite data store.
+06-05-2021 23:28:20.884 [java] [ERROR] Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 8700
+06-05-2021 23:28:20.884 [java] [ERROR] Only local connections are allowed.
+06-05-2021 23:28:20.884 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+06-05-2021 23:28:20.906 [java] [ERROR] ChromeDriver was started successfully.
+06-05-2021 23:28:23.718 [java] [ERROR] May 06, 2021 11:28:23 ÖS org.openqa.selenium.remote.ProtocolHandshake createSession
+06-05-2021 23:28:23.718 [java] [ERROR] INFO: Detected dialect: W3C
+06-05-2021 23:28:23.912 [java] [DEBUG] Executing 'Go to Main Page' using 'class Tests.HomeTest.userVisitSite
+06-05-2021 23:28:32.734 [java] [DEBUG] Executing 'Click on “Kiralık”' using 'class Tests.HomeTest.clickForRent
+06-05-2021 23:28:33.078 [java] [DEBUG] Executing 'Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ;' using 'class Tests.SaleTest.rentFilterSearch
+06-05-2021 23:28:48.228 [java] [DEBUG] Executing 'Click on the 3rd listing on the results and go to listing detail page.' using 'class Tests.SaleTest.selectedFirstHouseForRent
+06-05-2021 23:28:54.907 [java] [DEBUG] Executing 'WEB: On the Detail page there is a “Show Phone Number” link on the right.' using 'class Tests.SaleTest.firstHouseForRentDetailPage
+06-05-2021 23:28:57.247 [java] [DEBUG] Executing 'Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx)' using 'class Tests.SaleTest.validateThePhoneNumber
+06-05-2021 23:28:58.762 [html-report] [DEBUG] Transformed SuiteResult to report structure
+06-05-2021 23:28:58.800 [html-report] [INFO] Successfully generated html-report to => C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\reports\html-report\index.html
+06-05-2021 23:28:58.800 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\x\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+06-05-2021 23:28:58.800 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+06-05-2021 23:28:58.806 [java] [DEBUG] Killing Java runner...
+06-05-2021 23:28:58.807 [java] [DEBUG] Stopping execution pool...
+06-05-2021 23:28:58.807 [java] [DEBUG] Shutting down grpc server...
+06-05-2021 23:28:58.820 [java] [DEBUG] Runner killed gracefully.
+06-05-2021 23:28:59.317 [Gauge] [DEBUG] Runner with PID:8876 has exited
+06-05-2021 23:28:59.317 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+06-05-2021 23:28:59.317 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+06-05-2021 23:28:59.317 [Gauge] [INFO] 
+Total time taken: 39.09s
+06-05-2021 23:28:59.318 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+06-05-2021 23:29:33.459 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\.gauge\screenshots
+06-05-2021 23:29:33.462 [Gauge] [DEBUG] Plugin java is already installed.
+06-05-2021 23:29:33.463 [Gauge] [DEBUG] Plugin html-report is already installed.
+06-05-2021 23:29:33.464 [Gauge] [DEBUG] Parsing started.
+06-05-2021 23:29:33.464 [Gauge] [DEBUG] Started concepts parsing.
+06-05-2021 23:29:33.475 [Gauge] [DEBUG] 0 concepts parsing completed.
+06-05-2021 23:29:33.475 [Gauge] [DEBUG] Started specifications parsing.
+06-05-2021 23:29:33.476 [Gauge] [DEBUG] 1 specifications parsing completed.
+06-05-2021 23:29:33.476 [Gauge] [DEBUG] Parsing completed.
+06-05-2021 23:29:33.836 [java] [DEBUG] ***** Printing Properties/Env Values *****
+06-05-2021 23:29:33.836 [java] [DEBUG] PATH: "C:\Program Files\Java\jdk-15.0.1\bin;C:\Program Files\Common Files\Oracle\Java\javapath";C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2018b\runtime\win64;C:\Program Files\MATLAB\R2018b\bin;C:\Program Files\MATLAB\R2014a\runtime\win64;C:\Program Files\MATLAB\R2014a\bin;C:\Program Files\MATLAB\R2014a\polyspace\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Brackets\command;C:\Program Files\Java\jdk-15.0.1\lib;C:\Program Files\Java\jdk-15.0.1\bin;C:\Users\x\AppData\Local\Android\Sdk\tools;C:\Users\x\AppData\Local\Android\Sdk\build-tools;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\apache-maven-3.6.3;C:\Program Files\Android\Android Studio\bin;C:\Program Files\Git\cmd;C:\Program Files\Gauge\bin;C:\Users\x\AppData\Local\Microsoft\WindowsApps;C:\apache-maven-3.6.3\bin;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\Users\x\AppData\Local\Android\Sdk;;C:\Users\x\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+06-05-2021 23:29:33.836 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-15.0.1
+06-05-2021 23:29:33.836 [java] [DEBUG] gauge_project_root: C:\Users\x\Desktop\HurriyetemlakTestOtomasyon
+06-05-2021 23:29:33.836 [java] [DEBUG] gauge_parallel_streams_count: 4
+06-05-2021 23:29:33.836 [java] [DEBUG] gauge_reports_dir: reports
+06-05-2021 23:29:33.836 [java] [DEBUG] overwrite_reports: true
+06-05-2021 23:29:33.836 [java] [DEBUG] logs_directory: logs
+06-05-2021 23:29:33.836 [java] [DEBUG] enable_multithreading: false
+06-05-2021 23:29:33.836 [java] [DEBUG] gauge_specs_dir: specs
+06-05-2021 23:29:33.836 [java] [DEBUG] csv_delimiter: ,
+06-05-2021 23:29:33.836 [java] [DEBUG] gauge_java_home: 
+06-05-2021 23:29:33.836 [java] [DEBUG] gauge_custom_build_path: 
+06-05-2021 23:29:33.836 [java] [DEBUG] gauge_additional_libs: libs/*
+06-05-2021 23:29:33.836 [java] [DEBUG] gauge_jvm_args: 
+06-05-2021 23:29:33.836 [java] [DEBUG] gauge_custom_compile_dir: 
+06-05-2021 23:29:33.836 [java] [DEBUG] gauge_clear_state_level: scenario
+06-05-2021 23:29:33.836 [java] [DEBUG] ***** END *****
+06-05-2021 23:29:33.888 [Gauge] [DEBUG] Checking updates...
+06-05-2021 23:29:34.079 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:29:34.988 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:29:35.158 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:29:43.047 [java] [ERROR] Installed version of gauge-java (0.7.13) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+06-05-2021 23:29:43.047 [java] [DEBUG] classpath set to C:\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Java\jdk1.8.0_231\jre\lib\deploy.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_231\jre\lib\javaws.jar;C:\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Java\jdk1.8.0_231\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Java\jdk1.8.0_231\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_231\jre\lib\plugin.jar;C:\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\target\test-classes;C:\Users\x\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\x\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\x\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\x\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\x\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\x\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\x\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\x\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\x\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\x\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\x\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\x\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\x\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\x\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\x\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\x\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\x\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\x\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\x\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\x\.m2\repository\org\assertj\assertj-core\3.10.0\assertj-core-3.10.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\x\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\x\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\x\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\x\.m2\repository\io\github\bonigarcia\webdrivermanager\4.2.0\webdrivermanager-4.2.0.jar;C:\Users\x\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\x\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.1\httpclient5-5.0.1.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.1\httpcore5-5.0.1.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.1\httpcore5-h2-5.0.1.jar;C:\Users\x\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\x\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\x\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\x\.m2\repository\org\reflections\reflections\0.9.10\reflections-0.9.10.jar;C:\Users\x\.m2\repository\org\javassist\javassist\3.19.0-GA\javassist-3.19.0-GA.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\x\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\x\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+06-05-2021 23:29:43.135 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk-15.0.1\bin\java.exe
+06-05-2021 23:29:43.135 [java] [DEBUG] running - C:\Program Files\Java\jdk-15.0.1\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+06-05-2021 23:29:43.135 [java] [DEBUG] stdout/stderr is logged to logs\7916-java.exe.out
+06-05-2021 23:29:43.571 [java] [DEBUG] multithreading is set to false
+06-05-2021 23:29:44.314 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+06-05-2021 23:29:44.462 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+06-05-2021 23:29:44.462 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+06-05-2021 23:29:44.462 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+06-05-2021 23:29:45.194 [java] [DEBUG] gauge-java took 1611milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+06-05-2021 23:29:45.225 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1611
+06-05-2021 23:29:45.225 [java] [DEBUG] starting gRPC server...
+06-05-2021 23:29:45.537 [java] [DEBUG] started gRPC server on port 50972
+06-05-2021 23:29:45.537 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50972
+06-05-2021 23:29:45.784 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50972
+06-05-2021 23:29:45.784 [Gauge] [DEBUG] Validation started.
+06-05-2021 23:29:50.354 [java] [DEBUG] Scanning packages for steps
+06-05-2021 23:29:50.376 [java] [DEBUG] Comparing 'Tests.SaleTest.validateThePhoneNumber' and 'Tests.SaleTest.validateThePhoneNumber'
+06-05-2021 23:29:50.376 [java] [DEBUG] Found Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) in current project scope.
+06-05-2021 23:29:50.377 [java] [DEBUG] Comparing 'Tests.SaleTest.rentFilterSearch' and 'Tests.SaleTest.rentFilterSearch'
+06-05-2021 23:29:50.377 [java] [DEBUG] Found Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; in current project scope.
+06-05-2021 23:29:50.378 [java] [DEBUG] Comparing 'Tests.SaleTest.chekIfFilterArea' and 'Tests.SaleTest.chekIfFilterArea'
+06-05-2021 23:29:50.378 [java] [DEBUG] Found Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; in current project scope.
+06-05-2021 23:29:50.378 [java] [DEBUG] Comparing 'Tests.SaleTest.firstHouseForRentDetailPage' and 'Tests.SaleTest.firstHouseForRentDetailPage'
+06-05-2021 23:29:50.379 [java] [DEBUG] Found WEB: On the Detail page there is a “Show Phone Number” link on the right. in current project scope.
+06-05-2021 23:29:50.379 [java] [DEBUG] Comparing 'Tests.SaleTest.saleFilterSearch' and 'Tests.SaleTest.saleFilterSearch'
+06-05-2021 23:29:50.379 [java] [DEBUG] Found Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; in current project scope.
+06-05-2021 23:29:50.380 [java] [DEBUG] Comparing 'Tests.HomeTest.clickForRent' and 'Tests.HomeTest.clickForRent'
+06-05-2021 23:29:50.380 [java] [DEBUG] Found Click on “Kiralık” in current project scope.
+06-05-2021 23:29:50.380 [java] [DEBUG] Comparing 'Tests.HomeTest.clickForSale' and 'Tests.HomeTest.clickForSale'
+06-05-2021 23:29:50.380 [java] [DEBUG] Found Click on “Satılık” in current project scope.
+06-05-2021 23:29:50.380 [java] [DEBUG] Comparing 'Tests.SaleTest.clickSearch' and 'Tests.SaleTest.clickSearch'
+06-05-2021 23:29:50.381 [java] [DEBUG] Found Click Search in current project scope.
+06-05-2021 23:29:50.381 [java] [DEBUG] Comparing 'Tests.HomeTest.userVisitSite' and 'Tests.HomeTest.userVisitSite'
+06-05-2021 23:29:50.381 [java] [DEBUG] Found Go to Main Page in current project scope.
+06-05-2021 23:29:50.381 [java] [DEBUG] Comparing 'Tests.SaleTest.selectedFirstHouseForRent' and 'Tests.SaleTest.selectedFirstHouseForRent'
+06-05-2021 23:29:50.381 [java] [DEBUG] Found Click on the 3rd listing on the results and go to listing detail page. in current project scope.
+06-05-2021 23:29:50.382 [java] [DEBUG] Scanning packages for hooks
+06-05-2021 23:29:50.393 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+06-05-2021 23:29:50.393 [java] [DEBUG] 	Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; : public void chekIfFilterArea()
+06-05-2021 23:29:50.393 [java] [DEBUG] 	Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) : public void validateThePhoneNumber()
+06-05-2021 23:29:50.394 [java] [DEBUG] 	Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; : public void saleFilterSearch()
+06-05-2021 23:29:50.394 [java] [DEBUG] 	Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; : public void rentFilterSearch()
+06-05-2021 23:29:50.394 [java] [DEBUG] 	Click Search : public void clickSearch()
+06-05-2021 23:29:50.394 [java] [DEBUG] 	Go to Main Page : public void userVisitSite()
+06-05-2021 23:29:50.394 [java] [DEBUG] 	Click on the 3rd listing on the results and go to listing detail page. : public void selectedFirstHouseForRent()
+06-05-2021 23:29:50.395 [java] [DEBUG] 	Click on “Satılık” : public void clickForSale()
+06-05-2021 23:29:50.395 [java] [DEBUG] 	WEB: On the Detail page there is a “Show Phone Number” link on the right. : public void firstHouseForRentDetailPage()
+06-05-2021 23:29:50.395 [java] [DEBUG] 	Click on “Kiralık” : public void clickForRent()
+06-05-2021 23:29:54.070 [Gauge] [DEBUG] Validation completed.
+06-05-2021 23:29:54.071 [Gauge] [DEBUG] Run started
+06-05-2021 23:29:54.075 [Gauge] [DEBUG] Starting Html Report plugin
+06-05-2021 23:29:54.177 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50975
+06-05-2021 23:29:54.178 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50975
+06-05-2021 23:29:54.179 [Gauge] [DEBUG] Initialising suite data store.
+06-05-2021 23:29:55.268 [java] [ERROR] Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 49121
+06-05-2021 23:29:55.269 [java] [ERROR] Only local connections are allowed.
+06-05-2021 23:29:55.269 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+06-05-2021 23:29:55.288 [java] [ERROR] ChromeDriver was started successfully.
+06-05-2021 23:29:58.112 [java] [ERROR] May 06, 2021 11:29:58 ÖS org.openqa.selenium.remote.ProtocolHandshake createSession
+06-05-2021 23:29:58.112 [java] [ERROR] INFO: Detected dialect: W3C
+06-05-2021 23:29:58.303 [java] [DEBUG] Executing 'Go to Main Page' using 'class Tests.HomeTest.userVisitSite
+06-05-2021 23:30:07.260 [java] [DEBUG] Executing 'Click on “Satılık”' using 'class Tests.HomeTest.clickForSale
+06-05-2021 23:30:07.587 [java] [DEBUG] Executing 'Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10;' using 'class Tests.SaleTest.saleFilterSearch
+06-05-2021 23:30:18.928 [java] [DEBUG] Executing 'Click Search' using 'class Tests.SaleTest.clickSearch
+06-05-2021 23:30:19.444 [java] [DEBUG] Executing 'Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10;' using 'class Tests.SaleTest.chekIfFilterArea
+06-05-2021 23:30:22.102 [java] [DEBUG] Executing 'Go to Main Page' using 'class Tests.HomeTest.userVisitSite
+06-05-2021 23:30:27.672 [java] [DEBUG] Executing 'Click on “Kiralık”' using 'class Tests.HomeTest.clickForRent
+06-05-2021 23:30:27.958 [java] [DEBUG] Executing 'Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ;' using 'class Tests.SaleTest.rentFilterSearch
+06-05-2021 23:30:31.755 [html-report] [DEBUG] Transformed SuiteResult to report structure
+06-05-2021 23:30:31.817 [html-report] [INFO] Successfully generated html-report to => C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\reports\html-report\index.html
+06-05-2021 23:30:31.817 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\x\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+06-05-2021 23:30:31.817 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+06-05-2021 23:30:31.821 [java] [DEBUG] Killing Java runner...
+06-05-2021 23:30:31.822 [java] [DEBUG] Stopping execution pool...
+06-05-2021 23:30:31.822 [java] [DEBUG] Shutting down grpc server...
+06-05-2021 23:30:31.837 [java] [DEBUG] Runner killed gracefully.
+06-05-2021 23:30:32.638 [Gauge] [DEBUG] Runner with PID:7916 has exited
+06-05-2021 23:30:32.638 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+06-05-2021 23:30:32.638 [Gauge] [INFO] Scenarios:	2 executed	1 passed	1 failed	0 skipped
+06-05-2021 23:30:32.638 [Gauge] [INFO] 
+Total time taken: 37.682s
+06-05-2021 23:30:32.639 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+06-05-2021 23:30:39.763 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\.gauge\screenshots
+06-05-2021 23:30:39.767 [Gauge] [DEBUG] Plugin java is already installed.
+06-05-2021 23:30:39.769 [Gauge] [DEBUG] Plugin html-report is already installed.
+06-05-2021 23:30:39.770 [Gauge] [DEBUG] Parsing started.
+06-05-2021 23:30:39.770 [Gauge] [DEBUG] Started concepts parsing.
+06-05-2021 23:30:39.784 [Gauge] [DEBUG] 0 concepts parsing completed.
+06-05-2021 23:30:39.785 [Gauge] [DEBUG] Started specifications parsing.
+06-05-2021 23:30:39.786 [Gauge] [DEBUG] 1 specifications parsing completed.
+06-05-2021 23:30:39.786 [Gauge] [DEBUG] Parsing completed.
+06-05-2021 23:30:39.873 [java] [DEBUG] ***** Printing Properties/Env Values *****
+06-05-2021 23:30:39.873 [java] [DEBUG] PATH: "C:\Program Files\Java\jdk-15.0.1\bin;C:\Program Files\Common Files\Oracle\Java\javapath";C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2018b\runtime\win64;C:\Program Files\MATLAB\R2018b\bin;C:\Program Files\MATLAB\R2014a\runtime\win64;C:\Program Files\MATLAB\R2014a\bin;C:\Program Files\MATLAB\R2014a\polyspace\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Brackets\command;C:\Program Files\Java\jdk-15.0.1\lib;C:\Program Files\Java\jdk-15.0.1\bin;C:\Users\x\AppData\Local\Android\Sdk\tools;C:\Users\x\AppData\Local\Android\Sdk\build-tools;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\apache-maven-3.6.3;C:\Program Files\Android\Android Studio\bin;C:\Program Files\Git\cmd;C:\Program Files\Gauge\bin;C:\Users\x\AppData\Local\Microsoft\WindowsApps;C:\apache-maven-3.6.3\bin;C:\Users\x\AppData\Local\Android\Sdk\platform-tools;C:\Users\x\AppData\Local\Android\Sdk;;C:\Users\x\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+06-05-2021 23:30:39.873 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-15.0.1
+06-05-2021 23:30:39.874 [java] [DEBUG] gauge_project_root: C:\Users\x\Desktop\HurriyetemlakTestOtomasyon
+06-05-2021 23:30:39.874 [java] [DEBUG] gauge_parallel_streams_count: 4
+06-05-2021 23:30:39.874 [java] [DEBUG] gauge_reports_dir: reports
+06-05-2021 23:30:39.874 [java] [DEBUG] overwrite_reports: true
+06-05-2021 23:30:39.874 [java] [DEBUG] logs_directory: logs
+06-05-2021 23:30:39.874 [java] [DEBUG] enable_multithreading: false
+06-05-2021 23:30:39.874 [java] [DEBUG] gauge_specs_dir: specs
+06-05-2021 23:30:39.874 [java] [DEBUG] csv_delimiter: ,
+06-05-2021 23:30:39.874 [java] [DEBUG] gauge_java_home: 
+06-05-2021 23:30:39.874 [java] [DEBUG] gauge_custom_build_path: 
+06-05-2021 23:30:39.874 [java] [DEBUG] gauge_additional_libs: libs/*
+06-05-2021 23:30:39.874 [java] [DEBUG] gauge_jvm_args: 
+06-05-2021 23:30:39.874 [java] [DEBUG] gauge_custom_compile_dir: 
+06-05-2021 23:30:39.874 [java] [DEBUG] gauge_clear_state_level: scenario
+06-05-2021 23:30:39.874 [java] [DEBUG] ***** END *****
+06-05-2021 23:30:40.694 [Gauge] [DEBUG] Checking updates...
+06-05-2021 23:30:40.699 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:30:41.817 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:30:42.194 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+06-05-2021 23:30:48.129 [java] [ERROR] Installed version of gauge-java (0.7.13) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+06-05-2021 23:30:48.129 [java] [DEBUG] classpath set to C:\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Java\jdk1.8.0_231\jre\lib\deploy.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_231\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_231\jre\lib\javaws.jar;C:\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Java\jdk1.8.0_231\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Java\jdk1.8.0_231\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_231\jre\lib\plugin.jar;C:\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\target\test-classes;C:\Users\x\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\x\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\x\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\x\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\x\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\x\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\x\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\x\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\x\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\x\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\x\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\x\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\x\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\x\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\x\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\x\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\x\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\x\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\x\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\x\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\x\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\x\.m2\repository\org\assertj\assertj-core\3.10.0\assertj-core-3.10.0.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\x\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\x\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\x\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\x\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\x\.m2\repository\io\github\bonigarcia\webdrivermanager\4.2.0\webdrivermanager-4.2.0.jar;C:\Users\x\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\x\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.1\httpclient5-5.0.1.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.1\httpcore5-5.0.1.jar;C:\Users\x\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.1\httpcore5-h2-5.0.1.jar;C:\Users\x\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\x\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\x\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\x\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\x\.m2\repository\org\reflections\reflections\0.9.10\reflections-0.9.10.jar;C:\Users\x\.m2\repository\org\javassist\javassist\3.19.0-GA\javassist-3.19.0-GA.jar;C:\Users\x\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\x\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\x\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+06-05-2021 23:30:48.206 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk-15.0.1\bin\java.exe
+06-05-2021 23:30:48.206 [java] [DEBUG] running - C:\Program Files\Java\jdk-15.0.1\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+06-05-2021 23:30:48.206 [java] [DEBUG] stdout/stderr is logged to logs\6176-java.exe.out
+06-05-2021 23:30:48.607 [java] [DEBUG] multithreading is set to false
+06-05-2021 23:30:49.296 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+06-05-2021 23:30:49.472 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+06-05-2021 23:30:49.472 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+06-05-2021 23:30:49.472 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+06-05-2021 23:30:50.184 [java] [DEBUG] gauge-java took 1543milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+06-05-2021 23:30:50.184 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1543
+06-05-2021 23:30:50.184 [java] [DEBUG] starting gRPC server...
+06-05-2021 23:30:52.076 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51100
+06-05-2021 23:30:52.393 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51100
+06-05-2021 23:30:52.393 [Gauge] [DEBUG] Validation started.
+06-05-2021 23:30:54.978 [java] [DEBUG] Scanning packages for steps
+06-05-2021 23:30:54.997 [java] [DEBUG] Comparing 'Tests.SaleTest.validateThePhoneNumber' and 'Tests.SaleTest.validateThePhoneNumber'
+06-05-2021 23:30:54.997 [java] [DEBUG] Found Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) in current project scope.
+06-05-2021 23:30:54.997 [java] [DEBUG] Comparing 'Tests.SaleTest.rentFilterSearch' and 'Tests.SaleTest.rentFilterSearch'
+06-05-2021 23:30:54.997 [java] [DEBUG] Found Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; in current project scope.
+06-05-2021 23:30:54.998 [java] [DEBUG] Comparing 'Tests.SaleTest.chekIfFilterArea' and 'Tests.SaleTest.chekIfFilterArea'
+06-05-2021 23:30:54.998 [java] [DEBUG] Found Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; in current project scope.
+06-05-2021 23:30:54.998 [java] [DEBUG] Comparing 'Tests.SaleTest.firstHouseForRentDetailPage' and 'Tests.SaleTest.firstHouseForRentDetailPage'
+06-05-2021 23:30:54.999 [java] [DEBUG] Found WEB: On the Detail page there is a “Show Phone Number” link on the right. in current project scope.
+06-05-2021 23:30:54.999 [java] [DEBUG] Comparing 'Tests.SaleTest.saleFilterSearch' and 'Tests.SaleTest.saleFilterSearch'
+06-05-2021 23:30:54.999 [java] [DEBUG] Found Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; in current project scope.
+06-05-2021 23:30:55.000 [java] [DEBUG] Comparing 'Tests.HomeTest.clickForRent' and 'Tests.HomeTest.clickForRent'
+06-05-2021 23:30:55.000 [java] [DEBUG] Found Click on “Kiralık” in current project scope.
+06-05-2021 23:30:55.000 [java] [DEBUG] Comparing 'Tests.HomeTest.clickForSale' and 'Tests.HomeTest.clickForSale'
+06-05-2021 23:30:55.000 [java] [DEBUG] Found Click on “Satılık” in current project scope.
+06-05-2021 23:30:55.001 [java] [DEBUG] Comparing 'Tests.SaleTest.clickSearch' and 'Tests.SaleTest.clickSearch'
+06-05-2021 23:30:55.001 [java] [DEBUG] Found Click Search in current project scope.
+06-05-2021 23:30:55.001 [java] [DEBUG] Comparing 'Tests.HomeTest.userVisitSite' and 'Tests.HomeTest.userVisitSite'
+06-05-2021 23:30:55.001 [java] [DEBUG] Found Go to Main Page in current project scope.
+06-05-2021 23:30:55.001 [java] [DEBUG] Comparing 'Tests.SaleTest.selectedFirstHouseForRent' and 'Tests.SaleTest.selectedFirstHouseForRent'
+06-05-2021 23:30:55.002 [java] [DEBUG] Found Click on the 3rd listing on the results and go to listing detail page. in current project scope.
+06-05-2021 23:30:55.002 [java] [DEBUG] Scanning packages for hooks
+06-05-2021 23:30:55.012 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+06-05-2021 23:30:55.016 [java] [DEBUG] 	Check for Tags in the filter area: Izmir - Bornova; İş Yeri; 100.000 TL - 2.000.000 TL; Sıfır Bina, 1-5, 6-10; : public void chekIfFilterArea()
+06-05-2021 23:30:55.017 [java] [DEBUG] 	Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx) : public void validateThePhoneNumber()
+06-05-2021 23:30:55.017 [java] [DEBUG] 	Make a search: Izmir - Bornova; İş Yeri; Fiyat : 100.000 TL - 2.000.000 TL; Bina Yaşı: Sıfır Bina, 1-5, 6-10; : public void saleFilterSearch()
+06-05-2021 23:30:55.017 [java] [DEBUG] 	Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ; : public void rentFilterSearch()
+06-05-2021 23:30:55.017 [java] [DEBUG] 	Click Search : public void clickSearch()
+06-05-2021 23:30:55.018 [java] [DEBUG] 	Go to Main Page : public void userVisitSite()
+06-05-2021 23:30:55.018 [java] [DEBUG] 	Click on the 3rd listing on the results and go to listing detail page. : public void selectedFirstHouseForRent()
+06-05-2021 23:30:55.018 [java] [DEBUG] 	Click on “Satılık” : public void clickForSale()
+06-05-2021 23:30:55.018 [java] [DEBUG] 	WEB: On the Detail page there is a “Show Phone Number” link on the right. : public void firstHouseForRentDetailPage()
+06-05-2021 23:30:55.018 [java] [DEBUG] 	Click on “Kiralık” : public void clickForRent()
+06-05-2021 23:30:58.434 [Gauge] [DEBUG] Validation completed.
+06-05-2021 23:30:58.435 [Gauge] [DEBUG] Run started
+06-05-2021 23:30:58.437 [Gauge] [DEBUG] Starting Html Report plugin
+06-05-2021 23:30:58.521 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51104
+06-05-2021 23:30:58.523 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51104
+06-05-2021 23:30:58.523 [Gauge] [DEBUG] Initialising suite data store.
+06-05-2021 23:30:59.530 [java] [ERROR] Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 1380
+06-05-2021 23:30:59.530 [java] [ERROR] Only local connections are allowed.
+06-05-2021 23:30:59.530 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+06-05-2021 23:30:59.548 [java] [ERROR] ChromeDriver was started successfully.
+06-05-2021 23:31:01.725 [java] [ERROR] May 06, 2021 11:31:01 ÖS org.openqa.selenium.remote.ProtocolHandshake createSession
+06-05-2021 23:31:01.725 [java] [ERROR] INFO: Detected dialect: W3C
+06-05-2021 23:31:01.916 [java] [DEBUG] Executing 'Go to Main Page' using 'class Tests.HomeTest.userVisitSite
+06-05-2021 23:31:11.967 [java] [DEBUG] Executing 'Click on “Kiralık”' using 'class Tests.HomeTest.clickForRent
+06-05-2021 23:31:12.251 [java] [DEBUG] Executing 'Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ;' using 'class Tests.SaleTest.rentFilterSearch
+06-05-2021 23:31:29.080 [java] [DEBUG] Executing 'Click on the 3rd listing on the results and go to listing detail page.' using 'class Tests.SaleTest.selectedFirstHouseForRent
+06-05-2021 23:31:35.627 [java] [DEBUG] Executing 'WEB: On the Detail page there is a “Show Phone Number” link on the right.' using 'class Tests.SaleTest.firstHouseForRentDetailPage
+06-05-2021 23:31:37.997 [java] [DEBUG] Executing 'Validate the phone number that it is a real and valid mobile or landline number. (eg.+905xxxxxxxxx , +90212xxxxxxx)' using 'class Tests.SaleTest.validateThePhoneNumber
+06-05-2021 23:31:39.726 [html-report] [DEBUG] Transformed SuiteResult to report structure
+06-05-2021 23:31:39.769 [html-report] [INFO] Successfully generated html-report to => C:\Users\x\Desktop\HurriyetemlakTestOtomasyon\reports\html-report\index.html
+06-05-2021 23:31:39.769 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\x\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+06-05-2021 23:31:39.769 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+06-05-2021 23:31:39.777 [java] [DEBUG] Killing Java runner...
+06-05-2021 23:31:39.778 [java] [DEBUG] Stopping execution pool...
+06-05-2021 23:31:39.778 [java] [DEBUG] Shutting down grpc server...
+06-05-2021 23:31:39.789 [java] [DEBUG] Runner killed gracefully.
+06-05-2021 23:31:40.288 [Gauge] [DEBUG] Runner with PID:6176 has exited
+06-05-2021 23:31:40.288 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+06-05-2021 23:31:40.288 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+06-05-2021 23:31:40.288 [Gauge] [INFO] 
+Total time taken: 41.289s
+06-05-2021 23:31:40.322 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
